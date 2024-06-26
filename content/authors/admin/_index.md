@@ -27,8 +27,6 @@ profiles:
   - icon: at-symbol
     url: 'mailto:lvg@uwindsor.ca'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/linkedin

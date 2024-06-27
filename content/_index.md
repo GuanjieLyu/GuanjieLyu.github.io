@@ -23,6 +23,6 @@ sections:
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
         - text: Read my latest paper on LLMs
-          icon: academicon/obp
+          icon: academicons/obp
           url: https://arxiv.org/abs/2304.01852
 ---

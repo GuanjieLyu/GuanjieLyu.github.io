@@ -24,5 +24,5 @@ sections:
       buttons:
         - text: Read my latest paper on LLMs
           icon: academicons/obp
-          url: https://arxiv.org/abs/2304.01852
+          url: uploads/resume.pdf
 ---

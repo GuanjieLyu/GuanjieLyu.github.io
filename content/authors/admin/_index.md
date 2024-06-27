@@ -29,8 +29,6 @@ profiles:
     label: E-mail Me
   - icon: brands/google-scholar
     url: https://scholar.google.com/citations?user=Pn-F8hgAAAAJ&hl=en
-  - icon: brands/orcid
-    url: https://www.orcid.com/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/resume.pdf

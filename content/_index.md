@@ -22,7 +22,7 @@ sections:
       # Need a custom icon?
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
-        - text: Partial Exercises' Solution of Nelsen's Copula Book (2nd Edition)
+        - text: Partial Solutions to Exercises from Nelsen's Copula Book (2nd Edition)
           icon: academicons/obp
           url: uploads/intro_copula.pdf
 ---

@@ -1,17 +1,24 @@
-<script>
-  let bg = document.getElementById('page-bg');
-  bg.style.setProperty('will-change', 'filter', '');
-  let hue = 0;
+<head>
+  <meta name="google-site-verification" content="OE5RsdCwPcl8pTetzECFwCk0W6NcH_FGq_Lu08R6A5E" />
+  <!-- Other existing meta tags and head content -->
+</head>
 
-  // Dark mode support
-  let isDark = document.documentElement.classList.contains('dark');
-  document.addEventListener('hbThemeChange', (e) => {
-    console.debug('Theme changed - isDarkTheme? ' + e.detail.isDarkTheme());
-    isDark = e.detail.isDarkTheme();
-  });
+<body>
+  <!-- Your existing body content -->
 
-  setInterval(
-    function () {
+  <script>
+    let bg = document.getElementById('page-bg');
+    bg.style.setProperty('will-change', 'filter', '');
+    let hue = 0;
+
+    // Dark mode support
+    let isDark = document.documentElement.classList.contains('dark');
+    document.addEventListener('hbThemeChange', (e) => {
+      console.debug('Theme changed - isDarkTheme? ' + e.detail.isDarkTheme());
+      isDark = e.detail.isDarkTheme();
+    });
+
+    setInterval(function () {
       hue = (hue + 1) % 360.;
 
       if (isDark) {
@@ -21,14 +28,16 @@
       }
 
     }, (5000 / 360.));
-</script>
+  </script>
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-DVG1DQLSTL"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-DVG1DQLSTL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
 
-  gtag('config', 'G-DVG1DQLSTL');
-</script>
+    gtag('config', 'G-DVG1DQLSTL');
+  </script>
+</body>
+

@@ -27,6 +27,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:lvg@uwindsor.ca'
     label: E-mail Me
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/guanjie-lyu-585447204/?originalSubdomain=ca 
   - icon: brands/google-scholar
     url: https://scholar.google.com/citations?user=Pn-F8hgAAAAJ&hl=en
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`

@@ -35,4 +35,4 @@ profiles:
     label: Download my resume
 ---
 
-Guanjie Lyu is a PhD Candidate at University of Windsor, his research interest is in Bernstein Polynomial and Copula Modelling.
+Hi, welcome to my homepage! I am a PhD candidate at the University of Windsor. My research interests include Bernstein polynomials and copula modeling. Feel free to reach out to me at lvg@uwindsor.ca.

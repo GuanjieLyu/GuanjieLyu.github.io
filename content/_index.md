@@ -25,5 +25,8 @@ sections:
         - text: Partial Solutions to Exercises from Nelsen's Copula Book (2nd Edition)
           icon: academicons/obp
           url: uploads/intro_copula.pdf
+        - text: Partial Solutions to Exercises from Nelsen's Copula Book (2nd Edition)
+          icon: academicons/obp
+          url: uploads/intro_copula.pdf
 ---
 

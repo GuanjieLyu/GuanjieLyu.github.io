@@ -26,6 +26,6 @@ sections:
           icon: academicons/obp
           url: uploads/intro_copula.pdf
         - text: An Excellent Chinese TV Series: Ming Dynasty 1566
-          icon: custom/imdb.svg 
+          icon: /assets/media/icons/imdb.svg
           url: https://www.imdb.com/title/tt6424870/ 
 ---

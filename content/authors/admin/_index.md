@@ -2,7 +2,7 @@
 # Display name
 title: Guanjie Lyu
 
-
+ 
 # Full name (for SEO)
 first_name: Guanjie
 last_name: Lyu

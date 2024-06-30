@@ -32,3 +32,14 @@
 
   gtag('config', 'G-DVG1DQLSTL');
 </script>
+
+{{ range .Params.buttons }}
+  <a href="{{ .url }}" class="button">
+    {{ if strings.HasPrefix .icon "/assets/media/icons/" }}
+      <img src="{{ .icon }}" alt="{{ .text }}" class="icon">
+    {{ else }}
+      <i class="{{ .icon }}"></i>
+    {{ end }}
+    {{ .text }}
+  </a>
+{{ end }}

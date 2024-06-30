@@ -25,7 +25,7 @@ sections:
         - text: Partial Solutions to Exercises from Nelsen's Copula Book (2nd Edition)
           icon: academicons/obp
           url: uploads/intro_copula.pdf
-        - text: Watch my new YouTube video to achieve 20x productivity
+        - text: An Excellent Chinese TV Series: Ming Dynasty 1566
           icon: brands/youtube
           url: https://youtube.com
 ---

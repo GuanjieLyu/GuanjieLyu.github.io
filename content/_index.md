@@ -24,5 +24,8 @@ sections:
       buttons:
         - text: Partial Solutions to Exercises from Nelsen's Copula Book (2nd Edition)
           icon: academicons/obp
-          url: uploads/intro_copula.pdf 
+          url: uploads/intro_copula.pdf
+        - text: An Excellent Chinese TV Series
+          icon: brands/imdb
+          url: https://www.imdb.com/title/tt6424870/ 
 ---

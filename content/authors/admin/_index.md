@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Guanjie Lyu
+title: Guanjie Lyu (吕冠杰)
 
  
 # Full name (for SEO)

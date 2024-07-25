@@ -8,5 +8,5 @@ main:
     url: /
     weight: 10
   - name: Research
-    url: research/
+    url: /research/
     weight: 20

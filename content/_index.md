@@ -7,7 +7,7 @@ design:
   background:
     image:
       # Add your image background to `assets/media/`.
-      filename: bg-1.svg
+      filename: bg.svg
 
 sections:
   - block: resume-biography

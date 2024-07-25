@@ -12,7 +12,8 @@ design:
 sections:
   - block: resume-skills
     content:
-      title: Skills & Hobbies
-      username: admin
-      description: adasdada
+      title: Research Overview
 ---
+My research is focusing on nonparametric inference and copula modeling.
+
+

@@ -13,7 +13,8 @@ sections:
   - block: resume-skills
     content:
       title: Research Overview
+      text: My research is focusing on nonparametric inference and copula modeling.
 ---
-My research is focusing on nonparametric inference and copula modeling.
+
 
 

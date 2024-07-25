@@ -14,12 +14,17 @@ sections:
     content:
       title: Research Overview
       text: My research is focusing on nonparametric inference and copula modeling.
+
+            Guanjie Lyu, Mohamed Belalia∗. (2024). Smooth estimation of conditional
+quantile function using Bernstein polynomials. Statistics 58 (2): 407-421.
+            
+            Mohamed Belalia∗, Guanjie Lyu. (2024). Two-stage conditional density estimation
+based on Bernstein polynomials. Communications in Statistics - Theory and
+Methods 53 (11): 4172-4193.
+
+            Guanjie Lyu, Mohamed Belalia∗. (2023). Testing symmetry for bivariate copulas
+using Bernstein polynomials. Statistics and Computing 33 (6): 128.
+
 ---
 
-## Publications
-
-List of selected publications:
-
-1. **Paper Title 1** - Author(s). *Journal Name*. Year. [Link](#).
-2. **Paper Title 2** - Author(s). *Journal Name*. Year. [Link](#).
 

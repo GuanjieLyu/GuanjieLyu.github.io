@@ -1,8 +1,3 @@
----
-title: "Research"
-summary: "My courses"
----
-
 # Research Overview
 
 This is an overview of my research activities. Below you will find details about my courses and the associated research papers.

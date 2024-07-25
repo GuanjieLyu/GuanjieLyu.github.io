@@ -13,7 +13,7 @@ sections:
   - block: collection
     id: research
     content:
-      title: Teaching
+      title: Research
       filters:
         folders:
           - Research

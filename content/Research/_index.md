@@ -1,24 +1,21 @@
 ---
-title: Research
-summary: My Research
-type: landing
+title: "Research"
+summary: "My courses"
+type: "landing"
 
 cascade:
   - _target:
-      kind: page
+      kind: "page"
     params:
       show_breadcrumb: true
 
 sections:
-  - block: collection
-    id: research
+  - block: "collection"
+    id: "research"
     content:
-      title: Research
-      filters:
-        folders:
-          - Research
+      title: "Teaching"
     design:
-      view: article-grid
+      view: "article-grid"
       columns: 2
 ---
 

@@ -12,9 +12,9 @@ design:
 sections:
   - block: copula
     content:
-      title: Research Overview
+      title: 
       text: |-
-        **My research is focusing on nonparametric inference and copula modeling.**
+        **Nonparametric Test in Copula Modeling**
 
         Guanjie Lyu, Mohamed Belalia∗. (2024). Testing independence using C-power functions. Under review
 

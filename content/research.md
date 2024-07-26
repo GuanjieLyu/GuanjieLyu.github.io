@@ -10,7 +10,7 @@ design:
 
 # Page sections
 sections:
-  - block: copula
+  - block: resume-skills
     content:
       title: 
       text: |-

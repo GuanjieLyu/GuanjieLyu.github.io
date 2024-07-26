@@ -22,7 +22,6 @@ sections:
  
         Guanjie Lyu, Mohamed Belalia∗. (2023). Testing symmetry for bivariate copulas using Bernstein polynomials. Statistics and Computing 33 (6): 128.
 
-sections:
   - block: estimation
     content:
       title: 

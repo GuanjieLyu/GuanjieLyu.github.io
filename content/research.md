@@ -21,7 +21,6 @@ sections:
         Guanjie Lyu, Mohamed Belalia∗. (2024). Testing equality between the dependence structures of two samples using Bernstein polynomials. arXiv:2303.02510. Under revision
  
         Guanjie Lyu, Mohamed Belalia∗. (2023). Testing symmetry for bivariate copulas using Bernstein polynomials. Statistics and Computing 33 (6): 128.
-
   - block: estimation
     content:
       title: 

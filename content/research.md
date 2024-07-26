@@ -12,7 +12,7 @@ design:
 sections:
   - block: copula
     content:
-      title: Nonparametric test in copula modeling
+      title: 
       text: |-
         **Nonparametric test in copula modeling**
 

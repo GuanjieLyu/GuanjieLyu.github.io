@@ -12,7 +12,7 @@ design:
 sections:
   - block: copula
     content:
-      title: 
+      title: Nonparametric test in copula modeling
       text: |-
         **Nonparametric test in copula modeling**
 
@@ -23,7 +23,7 @@ sections:
         Guanjie Lyu, Mohamed Belalia∗. (2023). Testing symmetry for bivariate copulas using Bernstein polynomials. Statistics and Computing 33 (6): 128.
   - block: estimation
     content:
-      title: 
+      title: Nonparametric estimation
       text: |-
         **Nonparametric estimation**
 

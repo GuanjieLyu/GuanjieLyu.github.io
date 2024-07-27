@@ -20,7 +20,7 @@ sections:
 
         [2] Guanjie Lyu, Mohamed Belalia∗. (2024). Testing equality between the dependence structures of two samples using Bernstein polynomials. arXiv:2303.02510. Under revision
  
-        [3] Guanjie Lyu, Mohamed Belalia∗. (2023). Testing symmetry for bivariate copulas using Bernstein polynomials. <span style="color: navy;"> Statistics and Computing </span> 33 (6): 128.
+        [3] Guanjie Lyu, Mohamed Belalia∗. (2023). Testing symmetry for bivariate copulas using Bernstein polynomials. <span style="color: darkgreen;"> Statistics and Computing </span> 33 (6): 128.
     
   - block: resume-awards
     content:
@@ -28,8 +28,8 @@ sections:
       text: |-
         **Nonparametric estimation**
 
-        [1] Guanjie Lyu, Mohamed Belalia∗. (2024). Smooth estimation of conditional quantile function using Bernstein polynomials. <span style="color: navy;"> Statistics </span> 58 (2): 407-421.
+        [1] Guanjie Lyu, Mohamed Belalia∗. (2024). Smooth estimation of conditional quantile function using Bernstein polynomials. <span style="color: darkgreen;"> Statistics </span> 58 (2): 407-421.
 
-        [2] Mohamed Belalia∗, Guanjie Lyu. (2024). Two-stage conditional density estimation based on Bernstein polynomials. <span style="color: navy;"> Communications in Statistics - Theory and Methods </span> 53 (11): 4172-4193.
+        [2] Mohamed Belalia∗, Guanjie Lyu. (2024). Two-stage conditional density estimation based on Bernstein polynomials. <span style="color: darkgreen;"> Communications in Statistics - Theory and Methods </span> 53 (11): 4172-4193.
 ---
 

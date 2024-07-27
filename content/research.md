@@ -16,7 +16,7 @@ sections:
       text: |-
         **Nonparametric Test in Copula Modeling**
 
-        Guanjie Lyu, Mohamed Belalia∗. (2024). Testing independence using C-power functions. Under review
+        [1] Guanjie Lyu, Mohamed Belalia∗. (2024). Testing independence using C-power functions. Under review
 
         Guanjie Lyu, Mohamed Belalia∗. (2024). Testing equality between the dependence structures of two samples using Bernstein polynomials. arXiv:2303.02510. Under revision
  

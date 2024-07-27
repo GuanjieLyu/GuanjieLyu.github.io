@@ -19,10 +19,8 @@ sections:
         Guanjie Lyu, Mohamed Belalia∗. (2024). Testing independence using C-power functions. Under review
 
         Guanjie Lyu, Mohamed Belalia∗. (2024). Testing equality between the dependence structures of two samples using Bernstein polynomials. arXiv:2303.02510. Under revision
-
-        <span style="color: purple;">Guanjie Lyu, Mohamed Belalia∗. (2024). Smooth estimation of conditional quantile function using Bernstein polynomials. Statistics 58 (2): 407-421.</span>
  
-        Guanjie Lyu, Mohamed Belalia∗. (2023). Testing symmetry for bivariate copulas using Bernstein polynomials. Statistics and Computing 33 (6): 128.
+        Guanjie Lyu, Mohamed Belalia∗. (2023). Testing symmetry for bivariate copulas using Bernstein polynomials. <span style="color: lightblue;"> Statistics and Computing </span> 33 (6): 128.
     
   - block: resume-awards
     content:

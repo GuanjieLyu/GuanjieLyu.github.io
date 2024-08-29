@@ -12,4 +12,4 @@ main:
     weight: 20
   - name: Miscellaneous
     url: /miscellaneous/
-    weight: 30
+    weight: 21

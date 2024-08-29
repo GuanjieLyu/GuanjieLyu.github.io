@@ -14,7 +14,7 @@ sections:
     content:
       title: 
       text: |-
-        **Nonparametric Test in Copula Modeling**
+        **Nonparametric test in copula modeling**
 
         [1] **Guanjie Lyu**, Mohamed Belalia∗. (2024). Testing independence using C-power functions. <span style="color: #318CE7;"> Under review </span>
 

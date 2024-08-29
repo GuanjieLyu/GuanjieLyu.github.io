@@ -36,4 +36,4 @@ profiles:
     label: Download my resume
 ---
 
-Hi, welcome to my homepage! I am a PhD candidate at the University of Windsor. My research interests include Bernstein polynomials and copula modeling. Feel free to reach out to me at lvg@uwindsor.ca.
+Hello, and welcome to my homepage! I’m a PhD candidate at the University of Windsor with research interests in Bernstein polynomials and copula modeling. I appreciate any comments or advice on my research and look forward to potential potential collaborations. Feel free to contact me at lvg@uwindsor.ca.

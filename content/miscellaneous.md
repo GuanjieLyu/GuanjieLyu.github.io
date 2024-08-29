@@ -10,25 +10,15 @@ design:
 
 # Page sections
 sections:
-  - block: resume-skills
+   - block: cta-button-list
     content:
-      title: 
-      text: |-
-        **Nonparametric Test in Copula Modeling**
-
-        [1] **Guanjie Lyu**, Mohamed Belalia∗. (2024). Testing independence using C-power functions. <span style="color: #318CE7;"> Under review </span>
-
-        [2] **Guanjie Lyu**, Mohamed Belalia∗. (2024). Testing equality between the dependence structures of two samples using Bernstein polynomials. arXiv:2303.02510. <span style="color: #318CE7;"> Under revision </span>
- 
-        [3] **Guanjie Lyu**, Mohamed Belalia∗. (2023). Testing symmetry for bivariate copulas using Bernstein polynomials. <span style="color: darkgreen;"> Statistics and Computing </span> 33 (6): 128.
-    
-  - block: resume-awards
-    content:
-      title: 
-      text: |-
-        **Nonparametric estimation**
-
-        [1] **Guanjie Lyu**, Mohamed Belalia∗. (2024). Smooth estimation of conditional quantile function using Bernstein polynomials. <span style="color: darkgreen;"> Statistics </span> 58 (2): 407-421.
-
-        [2] Mohamed Belalia∗, **Guanjie Lyu**. (2024). Two-stage conditional density estimation based on Bernstein polynomials. <span style="color: darkgreen;"> Communications in Statistics - Theory and Methods </span> 53 (11): 4172-4193.
+      # Need a custom icon?
+      # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
+      buttons:
+        - text: Partial Solutions to Exercises from Nelsen's Copula Book (2nd Edition)
+          icon: academicons/obp
+          url: uploads/intro_copula.pdf
+        - text: An Excellent Chinese TV Series "Ming Dynasty 1566"
+          icon: brands/youtube
+          url: https://www.youtube.com/results?search_query=ming+dynasty+1566
 ---

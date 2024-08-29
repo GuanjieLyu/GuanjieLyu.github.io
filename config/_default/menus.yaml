@@ -11,5 +11,5 @@ main:
     url: /research/
     weight: 20
   - name: Miscellaneous
-    url: /research/
+    url: /miscellaneous/
     weight: 30

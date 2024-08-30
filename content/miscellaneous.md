@@ -17,7 +17,7 @@ sections:
       buttons:
         - text: Partial Solutions to Exercises from Nelsen's Copula Book (2nd Edition)
           icon: academicons/obp
-          url: /intro_copula.pdf
+          url: /uploads/intro_copula.pdf
         - text: An Excellent Chinese TV Series "Ming Dynasty 1566"
           icon: brands/youtube
           url: https://www.youtube.com/results?search_query=ming+dynasty+1566

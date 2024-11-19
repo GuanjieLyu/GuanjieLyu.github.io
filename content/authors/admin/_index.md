@@ -36,4 +36,4 @@ profiles:
     label: Download my resume
 ---
 
-Hello, and welcome to my homepage! I am a Ph.D. candidate at the University of Windsor, working under the supervision of Dr. Mohamed Belalia. My research focuses on Bernstein polynomials and copula modeling, with applications in statistics and data analysis. I appreciate any comments or advice on my research and look forward to potential collaborations. Feel free to contact me at lvg@uwindsor.ca.
+Hello, and welcome to my homepage! I am a Ph.D. candidate at the University of Windsor, working under the supervision of [Dr. Mohamed Belalia](https://www.uwindsor.ca/science/math/704/faculty-dr-mohamed-belalia). My research focuses on Bernstein polynomials and copula modeling, with applications in statistics and data analysis. I appreciate any comments or advice on my research and look forward to potential collaborations. Feel free to contact me at lvg@uwindsor.ca.

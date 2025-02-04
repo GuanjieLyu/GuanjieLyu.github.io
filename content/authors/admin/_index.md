@@ -15,7 +15,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoc researcher
+role: Postdoctoral Research Fellow
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Dalhousie Univeristy

@@ -15,11 +15,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Statistics
+role: Postdoc researcher
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Windsor
-    url: https://www.uwindsor.ca/
+  - name: Dalhousie Univeristy
+    url: https://www.dal.ca/
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.

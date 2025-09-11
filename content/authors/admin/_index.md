@@ -40,7 +40,8 @@ Hello, and welcome to my homepage! I am a Postdoctoral Fellow at Dalhousie Unive
 
 My research primarily focuses on Bernstein polynomials and copula modeling, with applications in statistics and data analysis. I appreciate any comments or advice on my research and look forward to potential collaborations. Feel free to contact me at guanjielyu@gmail.com.
 
-
+---
 *Last updated: September 11th 2025*
+
 
 

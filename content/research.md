@@ -19,7 +19,9 @@ sections:
         [1] **Guanjie Lyu**, Mohamed Belalia∗. (2024). Testing independence using C-power functions. <span style="color: #318CE7;">  </span>
 
         [2] **Guanjie Lyu**, Mohamed Belalia∗. (2024). Testing equality between the dependence structures of two samples using Bernstein polynomials. arXiv:2303.02510. <span style="color: #318CE7;">  </span>
- 
+
+        [3] **Guanjie Lyu**, Mohamed Belalia. (2023). [Testing symmetry for bivariate copulas using Bernstein polynomials](https://doi.org/10.1007/s11222-023-10297-1). <span style="color: darkgreen;"> Statistics and Computing </span> 33 (6): 128. [[Code](https://github.com/GuanjieLyu/EBC_SymmetryTest)]
+    
         [3] **Guanjie Lyu**, Mohamed Belalia∗. (2023). Testing symmetry for bivariate copulas using Bernstein polynomials. <span style="color: darkgreen;"> Statistics and Computing </span> 33 (6): 128.
     
   - block: resume-awards

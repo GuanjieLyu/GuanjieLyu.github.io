@@ -37,7 +37,7 @@ profiles:
 ---
 
 <p>Hello, and welcome to my homepage! I am a Postdoctoral Fellow at Dalhousie University, working under the supervision of 
-  <a href="https://sites.google.com/view/cindyfeng" target="_blank" style="color: black; text-decoration: underline; text-decoration-color: #0066cc; font-weight: bold;">Dr. Cindy Feng</a>. 
+  <a href="https://sites.google.com/view/cindyfeng" target="_blank" style="color: black; text-decoration: underline; text-decoration-color: #0066cc;">Dr. Cindy Feng</a>. 
   Before that, I earned my PhD degree at the University of Windsor in 2024, under the supervision of 
   <a href="https://www.uwindsor.ca/science/math/704/faculty-dr-mohamed-belalia" target="_blank" style="color: black; text-decoration: underline; text-decoration-color: #0066cc; font-weight: bold;">Dr. Mohamed Belalia</a>.</p>
 

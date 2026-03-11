@@ -49,7 +49,7 @@ sections:
         <a href="https://github.com/GuanjieLyu/EBC_SymmetryTest" target="_blank" style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration: none; font-size: 0.85em;">R Code</a>
         </li>
        </ol>
-      </div>
+        </div>
 
   - block: resume-awards
     content:

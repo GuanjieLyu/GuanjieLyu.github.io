@@ -36,6 +36,10 @@ sections:
     content:
       title:
       text: |-
+        <style>
+          .hb-section { text-align: left !important; }
+          .hb-section .container { max-width: 100% !important; }
+        </style>
         <div style="margin-top: -3rem; text-align: left; padding-left: 1rem;">
 
         <h3 style="border-bottom: 2px solid #333; padding-bottom: 4px; margin-top: 10px;">Nonparametric estimation</h3>

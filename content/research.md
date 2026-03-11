@@ -9,7 +9,7 @@ sections:
     content:
       title:
       text: |-
-        <div style="max-width: 800px; margin: 0 auto; margin-top: -1rem; text-align: left;">
+        <div style="margin-top: -1rem; text-align: left; padding-left: 1rem;">
 
         <h3 style="border-bottom: 2px solid #333; padding-bottom: 4px; margin-top: 10px;">Nonparametric test in copula modeling</h3>
 
@@ -32,7 +32,7 @@ sections:
     content:
       title:
       text: |-
-        <div style="max-width: 800px; margin: 0 auto; margin-top: -3rem; text-align: left;">
+        <div style="margin-top: -3rem; text-align: left; padding-left: 1rem;">
 
         <h3 style="border-bottom: 2px solid #333; padding-bottom: 4px; margin-top: 10px;">Nonparametric estimation</h3>
 

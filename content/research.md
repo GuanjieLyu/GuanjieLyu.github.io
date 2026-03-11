@@ -3,7 +3,7 @@ title: 'Research'
 date: 2023-10-24
 type: landing
 design:
-  spacing: '2rem'
+  spacing: '0.5rem'
 sections:
   - block: resume-skills
     content:

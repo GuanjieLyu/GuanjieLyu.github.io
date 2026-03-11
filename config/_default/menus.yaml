@@ -10,6 +10,6 @@ main:
   - name: Research
     url: /research/
     weight: 20
-  - name: Miscellaneous
+  - name: Miscellany
     url: /miscellaneous/
     weight: 21

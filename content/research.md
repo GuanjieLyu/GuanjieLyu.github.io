@@ -24,24 +24,25 @@ sections:
          Dependence modeling with copulas
         </h2>
 
-        <ol style="list-style-type: decimal; padding-left:1.5rem; line-height:1.6;">
-        <li> <strong>Guanjie Lyu</strong>, Lihui Liu, Cindy Feng<sup>*</sup>. (2026).
+        <ol style="list-style: none; counter-reset: ref;">
+        <li style="counter-increment: ref;">
+        <strong>Guanjie Lyu</strong>, Lihui Liu, Cindy Feng<sup>*</sup>. (2026).
         <a target="_blank" style="text-decoration: underline;">Copula-based joint modeling of emergency department visits with time-varying dependence</a>.
         <span style="font-style: italic;">Canadian Journal of Statistics</span>. Accepted.
         </li>
     
-        <li> 
+        <li style="counter-increment: ref;">
         <strong>Guanjie Lyu</strong>, Mohamed Belalia<sup>*</sup>. (2024+).
         <a target="_blank" style="text-decoration: underline;">Testing independence using C-power functions</a>.
         </li>
 
-        <li> 
+        <li style="counter-increment: ref;">
         <strong>Guanjie Lyu</strong>, Mohamed Belalia<sup>*</sup>. (2024+).
         <a target="_blank" style="text-decoration: underline;">Testing equality between the dependence structures of two samples using Bernstein polynomials</a>.
         <span style="font-style: italic;">arXiv:2303.02510</span>.
         </li>
 
-        <li> 
+        <li style="counter-increment: ref;">
         <strong>Guanjie Lyu</strong>, Mohamed Belalia<sup>*</sup>. (2023).
         <a target="_blank" style="text-decoration: underline;">Testing symmetry for bivariate copulas using Bernstein polynomials</a>.
         <span style="font-style: italic;">Statistics and Computing</span> 33 (6): 128.

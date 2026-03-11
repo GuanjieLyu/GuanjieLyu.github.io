@@ -72,8 +72,8 @@ sections:
 
         </div>
 
-   - block: resume-awards
-     content:
+  - block: resume-awards
+    content:
       title:
       text: |-
         <div style="margin-top:-3rem; text-align:left; padding-left:1rem; line-height:1.6;">

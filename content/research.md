@@ -119,12 +119,15 @@ sections:
          Statistical applications in health sciences
         </h2>
 
-
-        <p>[1] Cindy Feng<sup>*</sup>, Mark Asbridge, Amy Grant, Lihui Liu, <strong>Guanjie Lyu</strong>, Fahima Hassan. (2025).
+        <ol class="pub-list">
+         
+        <li>
+        Cindy Feng<sup>*</sup>, Mark Asbridge, Amy Grant, Lihui Liu, <strong>Guanjie Lyu</strong>, Fahima Hassan. (2025).
         <a target="_blank" style="text-decoration: underline;">Impact of the COVID-19 Pandemic on Opioid Overdose Mortality in
          Nova Scotia: An Interrupted Time Series Analysis, 2009–2023.</a>.
         <span style="font-style: italic;">Canadian Journal of Public Health</span>. Accepted.
-        <a href="https://link.springer.com/article/10.17269/s41997-025-01092-8" target="_blank" style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration: none; font-size:0.85em;">Paper</a></p>
+        <a href="https://link.springer.com/article/10.17269/s41997-025-01092-8" target="_blank" style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration: none; font-size:0.85em;">Paper</a>
+        </li>
     
         <p style="font-size:0.9rem; margin-top:1rem; color:#555;">
          * denotes the corresponding author.

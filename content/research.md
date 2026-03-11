@@ -4,9 +4,6 @@ date: 2023-10-24
 type: landing
 design:
   spacing: '0.2rem'
-  <p style="font-size:0.9rem; color:#555; margin-top:0.2rem;">
-   <sup>*</sup> denotes the corresponding author.
-  </p>
 sections:
   - block: resume-skills
     content:
@@ -29,6 +26,9 @@ sections:
          }
         </style>
 
+        <p style="font-size:0.9rem; color:#555; margin-top:0.2rem;">
+        <sup>*</sup> denotes the corresponding author.
+        </p>
         <h2 style="
          font-size:1.35rem;
          font-weight:600;

@@ -4,6 +4,9 @@ date: 2023-10-24
 type: landing
 design:
   spacing: '0.2rem'
+  <p style="font-size:0.9rem; color:#555; margin-top:0.2rem;">
+<sup>*</sup> denotes the corresponding author.
+</p>
 sections:
   - block: resume-skills
     content:
@@ -129,8 +132,5 @@ sections:
         <a href="https://link.springer.com/article/10.17269/s41997-025-01092-8" target="_blank" style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration: none; font-size:0.85em;">Paper</a>
         </li>
     
-        <p style="font-size:0.9rem; margin-top:1rem; color:#555;">
-         * denotes the corresponding author.
-        </p>
         </div>
 ---

@@ -17,7 +17,8 @@ sections:
         <a target="_blank" style="text-decoration: underline;">Testing independence using C-power functions</a>.</p>
 
         <p>[2] <strong>Guanjie Lyu</strong>, Mohamed Belalia<sup>*</sup>. (2024+).
-        <a target="_blank" style="text-decoration: underline;">Testing equality between the dependence structures of two samples using Bernstein polynomials. arXiv:2303.02510</a>.</p>
+        <a target="_blank" style="text-decoration: underline;">Testing equality between the dependence structures of two samples using Bernstein polynomials</a>.
+        <span style="font-style: italic;">arXiv:2303.02510</span>.</p>
 
         <p>[3] <strong>Guanjie Lyu</strong>, Mohamed Belalia<sup>*</sup>. (2023).
         <a target="_blank" style="text-decoration: underline;">Testing symmetry for bivariate copulas using Bernstein polynomials</a>.

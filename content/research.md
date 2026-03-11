@@ -24,7 +24,8 @@ sections:
          Dependence modeling with copulas
         </h2>
 
-       <ol style="list-style: none; counter-reset: ref; padding-left:0;">
+        <ol style="list-style: none; counter-reset: ref; padding-left:0;">
+         
         <li style="counter-increment: ref;">
         <span style="margin-right:6px;">[<span style="counter-reset:none;"></span><span style="counter-increment:none;"></span></span>
         <strong>Guanjie Lyu</strong>, Lihui Liu, Cindy Feng<sup>*</sup>. (2026).

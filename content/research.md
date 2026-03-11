@@ -12,7 +12,15 @@ sections:
         <div style="margin-top:-1rem; text-align:left; padding-left:1rem; line-height:1.6;">
 
 
-        <h3 style="border-bottom: 2px solid #333; padding-bottom: 4px; margin-top: 10px;">Copula modeling</h3>
+        <h2 style="
+         font-size:1.35rem;
+         font-weight:600;
+         margin-top:1.4rem;
+         margin-bottom:0.35rem;
+         border-bottom:1.5px solid #444;
+         padding-bottom:4px;">
+         Copula modeling
+        </h2>
 
         <p>
         [1] <strong>Guanjie Lyu</strong>, Mohamed Belalia<sup>*</sup>. (2024+).

@@ -88,6 +88,7 @@ sections:
          margin-top:1.4rem;
          margin-bottom:0.35rem;
          border-bottom:1.5px solid #444;
+         width:1500px;
          padding-bottom:4px;">
          Statistical applications in health sciences
         </h2>

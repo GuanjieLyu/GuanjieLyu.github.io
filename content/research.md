@@ -12,7 +12,7 @@ sections:
         <div style="margin-top:-1rem; text-align:left; padding-left:1rem; line-height:1.6;">
 
 
-        <h3 style="border-bottom: 2px solid #333; padding-bottom: 4px; margin-top: 10px;">Nonparametric test in copula modeling</h3>
+        <h3 style="border-bottom: 2px solid #333; padding-bottom: 4px; margin-top: 10px;">Copula modeling</h3>
 
         <p>
         [1] <strong>Guanjie Lyu</strong>, Mohamed Belalia<sup>*</sup>. (2024+).
@@ -38,7 +38,7 @@ sections:
       text: |-
         <div style="margin-top:-3rem; text-align:left; padding-left:1rem; line-height:1.6;">
 
-        <h3 style="border-bottom: 2px solid #333; padding-bottom: 4px; margin-top: 10px;">Nonparametric estimation</h3>
+        <h3 style="border-bottom: 2px solid #333; padding-bottom: 4px; margin-top: 10px;">Nonparametric inference</h3>
 
         <p>[1] <strong>Guanjie Lyu</strong>, Mohamed Belalia<sup>*</sup>. (2024).
         <a target="_blank" style="text-decoration: underline;">Smooth estimation of conditional quantile function using Bernstein polynomials</a>.

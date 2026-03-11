@@ -55,7 +55,7 @@ sections:
         </li>
     
         <li style="counter-increment: ref;">
-        <strong>Guanjie Lyu</strong>, Mohamed Belalia<sup>*</sup>. (2024+).
+        <strong>Guanjie Lyu</strong><sup>*</sup>, Mohamed Belalia. (2024+).
         <a target="_blank" style="text-decoration: underline;">Testing independence using C-power functions</a>.
         </li>
 

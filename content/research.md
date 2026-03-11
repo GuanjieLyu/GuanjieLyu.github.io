@@ -99,6 +99,9 @@ sections:
          Nova Scotia: An Interrupted Time Series Analysis, 2009–2023.</a>.
         <span style="font-style: italic;">Canadian Journal of Public Health</span>. Accepted.
         <a href="https://link.springer.com/article/10.17269/s41997-025-01092-8" target="_blank" style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration: none; font-size:0.85em;">Paper</a></p>
-
+    
+        <p style="font-size:0.9rem; margin-top:1rem; color:#555;">
+         * denotes the corresponding author.
+        </p>
         </div>
 ---

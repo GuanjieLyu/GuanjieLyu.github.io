@@ -27,7 +27,7 @@ sections:
         </style>
 
         <p style="font-size:0.9rem; color:#555; margin-top:0.2rem;">
-        <sup>*</sup> denotes the corresponding author.
+        <sup>&dagger;</sup> trainee; <sup>*</sup> corresponding author.
         </p>
         <h2 style="
          font-size:1.35rem;
@@ -42,7 +42,12 @@ sections:
         </h2>
 
         <ol class="pub-list">
-         
+
+        <li>
+        <strong>Guanjie Lyu</strong><sup>*</sup>, Yuling Chen<sup>&dagger;</sup>, Mohamed Belalia. (2026+).
+        <a target="_blank" style="text-decoration: underline;">Integrated empirical copula processes for testing independence: computation and efficiency</a>.
+        </li>
+
         <li>
         <strong>Guanjie Lyu</strong>, Lihui Liu, Cindy Feng<sup>*</sup>. (2026).
         <a target="_blank" style="text-decoration: underline;">Copula-based joint modeling of emergency department visits with time-varying dependence</a>.

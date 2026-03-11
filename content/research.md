@@ -24,8 +24,9 @@ sections:
          Dependence modeling with copulas
         </h2>
 
-        <ol style="list-style: none; counter-reset: ref;">
+       <ol style="list-style: none; counter-reset: ref; padding-left:0;">
         <li style="counter-increment: ref;">
+        <span style="margin-right:6px;">[<span style="counter-reset:none;"></span><span style="counter-increment:none;"></span></span>
         <strong>Guanjie Lyu</strong>, Lihui Liu, Cindy Feng<sup>*</sup>. (2026).
         <a target="_blank" style="text-decoration: underline;">Copula-based joint modeling of emergency department visits with time-varying dependence</a>.
         <span style="font-style: italic;">Canadian Journal of Statistics</span>. Accepted.

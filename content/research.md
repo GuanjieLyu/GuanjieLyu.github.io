@@ -10,7 +10,21 @@ sections:
       title:
       text: |-
         <div style="margin-top:-1rem; text-align:left; padding-left:1rem; line-height:1.6;">
-
+        <style>
+         .pub-list {
+         list-style: none;
+         counter-reset: ref;
+         padding-left: 0;
+        }
+       .pub-list li {
+       counter-increment: ref;
+       margin-bottom: 6px;
+       }
+      .pub-list li::before {
+       content: "[" counter(ref) "] ";
+       font-weight: normal;
+       }
+      </style>
 
         <h2 style="
          font-size:1.35rem;
@@ -24,9 +38,9 @@ sections:
          Dependence modeling with copulas
         </h2>
 
-        <ol style="list-style: none; counter-reset: ref; padding-left:0;">
+        <ol class="pub-list">
          
-        <li style="counter-increment: ref;">
+        <li>
         <span style="margin-right:6px;">[<span style="counter-reset:none;"></span><span style="counter-increment:none;"></span></span>
         <strong>Guanjie Lyu</strong>, Lihui Liu, Cindy Feng<sup>*</sup>. (2026).
         <a target="_blank" style="text-decoration: underline;">Copula-based joint modeling of emergency department visits with time-varying dependence</a>.

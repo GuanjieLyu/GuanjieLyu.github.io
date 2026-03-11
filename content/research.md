@@ -33,8 +33,9 @@ sections:
         <h3 style="border-bottom: 2px solid #333; padding-bottom: 4px; margin-top: 10px;">Nonparametric estimation</h3>
 
         <p>[1] <strong>Guanjie Lyu</strong>, Mohamed Belalia<sup>*</sup>. (2024).
-        <a href="https://www.tandfonline.com/doi/full/10.1080/02331888.2024.2339268" target="_blank" style="color: #0066cc; text-decoration: underline;">Smooth estimation of conditional quantile function using Bernstein polynomials</a>.
-        <span style="color: darkgreen;">Statistics</span> 58 (2): 407-421.</p>
+        <a target="_blank" style="color: #0066cc; text-decoration: underline;">Smooth estimation of conditional quantile function using Bernstein polynomials</a>.
+        <span style="font-style: italic;">Statistics</span> 58 (2): 407-421.</p>
+        <a href="https://www.tandfonline.com/doi/full/10.1080/02331888.2024.2339268" target="_blank" style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration: none; font-size:     0.85em;">Paper</a></p>
 
         <p>[2] Mohamed Belalia<sup>*</sup>, <strong>Guanjie Lyu</strong>. (2024). Two-stage conditional density estimation based on Bernstein polynomials.
         <span style="color: darkgreen;">Communications in Statistics - Theory and Methods</span> 53 (11): 4172-4193.</p>

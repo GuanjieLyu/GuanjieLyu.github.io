@@ -16,11 +16,14 @@ sections:
          font-size:1.35rem;
          font-weight:600;
          margin-top:1.4rem;
-         margin-bottom:0.3rem;">
+         margin-bottom:0.35rem;
+         border-bottom:1.2px solid #444;
+         padding-bottom:4px;
+         width:1200px;
+         display:block;">
          Dependence modeling with copulas
         </h2>
 
-        <div style="width:100%; border-bottom:1.5px solid #444; margin-bottom:0.6rem;"></div>
 
         <p>[1] <strong>Guanjie Lyu</strong>, Lihui Liu, Cindy Feng<sup>*</sup>. (2026).
         <a target="_blank" style="text-decoration: underline;">Copula-based joint modeling of emergency department visits with time-varying dependence</a>.

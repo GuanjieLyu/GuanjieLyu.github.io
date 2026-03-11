@@ -41,7 +41,6 @@ sections:
         <ol class="pub-list">
          
         <li>
-        <span style="margin-right:6px;">[<span style="counter-reset:none;"></span><span style="counter-increment:none;"></span></span>
         <strong>Guanjie Lyu</strong>, Lihui Liu, Cindy Feng<sup>*</sup>. (2026).
         <a target="_blank" style="text-decoration: underline;">Copula-based joint modeling of emergency department visits with time-varying dependence</a>.
         <span style="font-style: italic;">Canadian Journal of Statistics</span>. Accepted.
@@ -85,15 +84,21 @@ sections:
          Nonparametric inference
         </h2>
 
-        <p>[1] <strong>Guanjie Lyu</strong>, Mohamed Belalia<sup>*</sup>. (2024).
+        <ol class="pub-list">
+         
+        <li>
+        <strong>Guanjie Lyu</strong>, Mohamed Belalia<sup>*</sup>. (2024).
         <a target="_blank" style="text-decoration: underline;">Smooth estimation of conditional quantile function using Bernstein polynomials</a>.
         <span style="font-style: italic;">Statistics</span> 58 (2): 407-421.
-        <a href="https://www.tandfonline.com/doi/full/10.1080/02331888.2024.2339268" target="_blank" style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration: none; font-size:              0.85em;">Paper</a></p>
-
-        <p>[2] Mohamed Belalia<sup>*</sup>, <strong>Guanjie Lyu</strong>. (2024).
+        <a href="https://www.tandfonline.com/doi/full/10.1080/02331888.2024.2339268" target="_blank" style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration: none; font-size:              0.85em;">Paper</a>
+         </li>
+    
+        <li>
+        Mohamed Belalia<sup>*</sup>, <strong>Guanjie Lyu</strong>. (2024).
         <a target="_blank" style="text-decoration: underline;">Two-stage conditional density estimation based on Bernstein polynomials</a>.
         <span style="font-style: italic;">Communications in Statistics - Theory and Methods</span> 53 (11): 4172-4193.
-        <a href="https://www.tandfonline.com/doi/full/10.1080/03610926.2023.2176715" target="_blank" style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration: none; font-size:              0.85em;">Paper</a></p>
+        <a href="https://www.tandfonline.com/doi/full/10.1080/03610926.2023.2176715" target="_blank" style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration: none; font-size:              0.85em;">Paper</a>
+        </li>
 
         </div>
 

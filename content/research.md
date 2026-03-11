@@ -24,28 +24,32 @@ sections:
          Dependence modeling with copulas
         </h2>
 
-
-        <p>[1] <strong>Guanjie Lyu</strong>, Lihui Liu, Cindy Feng<sup>*</sup>. (2026).
+      <ol>
+        <li> <strong>Guanjie Lyu</strong>, Lihui Liu, Cindy Feng<sup>*</sup>. (2026).
         <a target="_blank" style="text-decoration: underline;">Copula-based joint modeling of emergency department visits with time-varying dependence</a>.
-        <span style="font-style: italic;">Canadian Journal of Statistics</span>. Accepted.</p>
+        <span style="font-style: italic;">Canadian Journal of Statistics</span>. Accepted.
+        </li>
     
-        <p>
-        [2] <strong>Guanjie Lyu</strong>, Mohamed Belalia<sup>*</sup>. (2024+).
-        <a target="_blank" style="text-decoration: underline;">Testing independence using C-power functions</a>.</p>
+        <li> 
+        <strong>Guanjie Lyu</strong>, Mohamed Belalia<sup>*</sup>. (2024+).
+        <a target="_blank" style="text-decoration: underline;">Testing independence using C-power functions</a>.
+        </li>
 
-        <p>
-        [3] <strong>Guanjie Lyu</strong>, Mohamed Belalia<sup>*</sup>. (2024+).
+        <li> 
+        <strong>Guanjie Lyu</strong>, Mohamed Belalia<sup>*</sup>. (2024+).
         <a target="_blank" style="text-decoration: underline;">Testing equality between the dependence structures of two samples using Bernstein polynomials</a>.
-        <span style="font-style: italic;">arXiv:2303.02510</span>.</p>
+        <span style="font-style: italic;">arXiv:2303.02510</span>.
+        </li>
 
-        <p>
-        [4] <strong>Guanjie Lyu</strong>, Mohamed Belalia<sup>*</sup>. (2023).
+        <li> 
+        <strong>Guanjie Lyu</strong>, Mohamed Belalia<sup>*</sup>. (2023).
         <a target="_blank" style="text-decoration: underline;">Testing symmetry for bivariate copulas using Bernstein polynomials</a>.
         <span style="font-style: italic;">Statistics and Computing</span> 33 (6): 128.
         <a href="https://link.springer.com/article/10.1007/s11222-023-10297-1" target="_blank" style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration: none; font-size:                    0.85em;">Paper</a>
-        <a href="https://github.com/GuanjieLyu/EBC_SymmetryTest" target="_blank" style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration: none; font-size: 0.85em;">R Code</a></p>
-
-        </div>
+        <a href="https://github.com/GuanjieLyu/EBC_SymmetryTest" target="_blank" style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration: none; font-size: 0.85em;">R Code</a>
+        </li>
+       </ol>
+      </div>
 
   - block: resume-awards
     content:

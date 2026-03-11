@@ -1,5 +1,5 @@
 ---
-title: 'Miscellaneous'
+title: 'Miscellany'
 date: 2023-10-24
 type: landing
 

@@ -20,8 +20,7 @@ sections:
         <p>[3] <strong>Guanjie Lyu</strong>, Mohamed Belalia<sup>*</sup>. (2023).
         <a target="_blank" style="text-decoration: underline;">Testing symmetry for bivariate copulas using Bernstein polynomials</a>.
         <span style="font-style: italic;">Statistics and Computing</span> 33 (6): 128.
-        <a href="https://link.springer.com/article/10.1007/s11222-023-10297-1" target="_blank" style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration: none; font-size:     0.85em;">Paper</a></p>
-        <a href="https://github.com/GuanjieLyu/EBC_SymmetryTest" target="_blank" style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration: none; font-size: 0.85em;">R Code</a></p>
+        <a href="https://link.springer.com/article/10.1007/s11222-023-10297-1" target="_blank" style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration: none; font-size:     0.85em;">Paper</a></p> <a href="https://github.com/GuanjieLyu/EBC_SymmetryTest" target="_blank" style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration: none; font-size: 0.85em;">R Code</a></p>
 
         </div>
 

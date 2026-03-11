@@ -15,16 +15,16 @@ sections:
          list-style: none;
          counter-reset: ref;
          padding-left: 0;
-        }
-       .pub-list li {
-       counter-increment: ref;
-       margin-bottom: 6px;
-       }
-      .pub-list li::before {
-       content: "[" counter(ref) "] ";
-       font-weight: normal;
-       }
-      </style>
+           }
+          .pub-list li {
+          counter-increment: ref;
+          margin-bottom: 6px;
+         }
+         .pub-list li::before {
+         content: "[" counter(ref) "] ";
+         font-weight: normal;
+         }
+        </style>
 
         <h2 style="
          font-size:1.35rem;

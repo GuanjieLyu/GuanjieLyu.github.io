@@ -46,7 +46,15 @@ sections:
       text: |-
         <div style="margin-top:-3rem; text-align:left; padding-left:1rem; line-height:1.6;">
 
-        <h3 style="border-bottom: 2px solid #333; padding-bottom: 4px; margin-top: 10px;">Nonparametric inference</h3>
+        <h2 style="
+         font-size:1.35rem;
+         font-weight:600;
+         margin-top:1.4rem;
+         margin-bottom:0.35rem;
+         border-bottom:1.5px solid #444;
+         padding-bottom:4px;">
+         Nonparametric inference
+        </h2>
 
         <p>[1] <strong>Guanjie Lyu</strong>, Mohamed Belalia<sup>*</sup>. (2024).
         <a target="_blank" style="text-decoration: underline;">Smooth estimation of conditional quantile function using Bernstein polynomials</a>.

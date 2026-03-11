@@ -17,9 +17,9 @@ sections:
          font-weight:600;
          margin-top:1.4rem;
          margin-bottom:0.35rem;
-         border-bottom:1.2px solid #444;
+         border-bottom:1.5px solid #444;
          padding-bottom:4px;
-         width:1200px;
+         width:1500px;
          display:block;">
          Dependence modeling with copulas
         </h2>
@@ -59,6 +59,7 @@ sections:
          margin-top:1.4rem;
          margin-bottom:0.35rem;
          border-bottom:1.5px solid #444;
+         width:1500px;
          padding-bottom:4px;">
          Nonparametric inference
         </h2>

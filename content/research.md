@@ -9,12 +9,13 @@ sections:
     content:
       title:
       text: |-
-        <div style="margin-top: -1rem; text-align: left; padding-left: 1rem;">
+        <div style="margin-top:-1rem; text-align:left; padding-left:1rem; line-height:1.6;">
 
 
         <h3 style="border-bottom: 2px solid #333; padding-bottom: 4px; margin-top: 10px;">Nonparametric test in copula modeling</h3>
 
-        <p>[1] <strong>Guanjie Lyu</strong>, Mohamed Belalia<sup>*</sup>. (2024+).
+        <p style="margin-left:1.2em; text-indent:-1.2em;">
+        [1] <strong>Guanjie Lyu</strong>, Mohamed Belalia<sup>*</sup>. (2024+).
         <a target="_blank" style="text-decoration: underline;">Testing independence using C-power functions</a>.</p>
 
         <p>[2] <strong>Guanjie Lyu</strong>, Mohamed Belalia<sup>*</sup>. (2024+).
@@ -33,7 +34,7 @@ sections:
     content:
       title:
       text: |-
-        <div style="margin-top: -3rem; text-align: left; padding-left: 1rem;">
+        <div style="margin-top:-3rem; text-align:left; padding-left:1rem; line-height:1.6;">
 
         <h3 style="border-bottom: 2px solid #333; padding-bottom: 4px; margin-top: 10px;">Nonparametric estimation</h3>
 

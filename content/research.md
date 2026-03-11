@@ -13,9 +13,11 @@ sections:
 
         <h3 style="border-bottom: 2px solid #333; padding-bottom: 4px; margin-top: 10px;">Nonparametric test in copula modeling</h3>
 
-        <p>[1] <strong>Guanjie Lyu</strong>, Mohamed Belalia<sup>*</sup>. (2024+). Testing independence using C-power functions.</p>
+        <p>[1] <strong>Guanjie Lyu</strong>, Mohamed Belalia<sup>*</sup>. (2024+).
+        <a target="_blank" style="text-decoration: underline;">Testing independence using C-power functions</a>.</p>
 
-        <p>[2] <strong>Guanjie Lyu</strong>, Mohamed Belalia<sup>*</sup>. (2024+). Testing equality between the dependence structures of two samples using Bernstein polynomials. arXiv:2303.02510.</p>
+        <p>[2] <strong>Guanjie Lyu</strong>, Mohamed Belalia<sup>*</sup>. (2024+).
+        <a target="_blank" style="text-decoration: underline;">Testing equality between the dependence structures of two samples using Bernstein polynomials. arXiv:2303.02510</a>.</p>
 
         <p>[3] <strong>Guanjie Lyu</strong>, Mohamed Belalia<sup>*</sup>. (2023).
         <a target="_blank" style="text-decoration: underline;">Testing symmetry for bivariate copulas using Bernstein polynomials</a>.

@@ -5,8 +5,8 @@ type: landing
 design:
   spacing: '0.2rem'
   <p style="font-size:0.9rem; color:#555; margin-top:0.2rem;">
-<sup>*</sup> denotes the corresponding author.
-</p>
+   <sup>*</sup> denotes the corresponding author.
+  </p>
 sections:
   - block: resume-skills
     content:

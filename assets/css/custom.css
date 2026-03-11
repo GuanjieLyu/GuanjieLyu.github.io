@@ -1,0 +1,24 @@
+/* Make the whole block left aligned */
+#section-resume-skills .flex.flex-col.items-center,
+#section-resume-awards .flex.flex-col.items-center {
+  align-items: flex-start !important;
+}
+
+/* Remove centered narrow text column */
+#section-resume-skills .max-w-prose,
+#section-resume-awards .max-w-prose {
+  max-width: none !important;
+  width: 100% !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+/* Ensure text is left aligned */
+#section-resume-skills,
+#section-resume-skills p,
+#section-resume-skills h3,
+#section-resume-awards,
+#section-resume-awards p,
+#section-resume-awards h3 {
+  text-align: left !important;
+}

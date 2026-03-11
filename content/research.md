@@ -16,15 +16,15 @@ sections:
          font-size:1.35rem;
          font-weight:600;
          margin-top:1.4rem;
-         margin-bottom:0.35rem;
-         border-bottom:1.5px solid #444;
-         padding-bottom:4px;">
+         margin-bottom:0.3rem;">
          Dependence modeling with copulas
         </h2>
 
+        <div style="width:100%; border-bottom:1.5px solid #444; margin-bottom:0.6rem;"></div>
+
         <p>[1] <strong>Guanjie Lyu</strong>, Lihui Liu, Cindy Feng<sup>*</sup>. (2026).
         <a target="_blank" style="text-decoration: underline;">Copula-based joint modeling of emergency department visits with time-varying dependence</a>.
-        <span style="font-style: italic;">Canadian journal of Statistics</span> Accepted.</p>
+        <span style="font-style: italic;">Canadian journal of Statistics</span>. Accepted.</p>
     
         <p>
         [2] <strong>Guanjie Lyu</strong>, Mohamed Belalia<sup>*</sup>. (2024+).
@@ -92,7 +92,7 @@ sections:
         <p>[1] Cindy Feng<sup>*</sup>, Mark Asbridge, Amy Grant, Lihui Liu, <strong>Guanjie Lyu</strong>, Fahima Hassan. (2025).
         <a target="_blank" style="text-decoration: underline;">Impact of the COVID-19 Pandemic on Opioid Overdose Mortality in
          Nova Scotia: An Interrupted Time Series Analysis, 2009–2023.</a>.
-        <span style="font-style: italic;">Canadian Journal of Public Health</span> Accepted.
+        <span style="font-style: italic;">Canadian Journal of Public Health</span>. Accepted.
         <a href="https://link.springer.com/article/10.17269/s41997-025-01092-8" target="_blank" style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration: none; font-size:0.85em;">Paper</a></p>
 
         </div>

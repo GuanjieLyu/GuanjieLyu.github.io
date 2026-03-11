@@ -48,7 +48,7 @@ sections:
         <a href="https://link.springer.com/article/10.1007/s11222-023-10297-1" target="_blank" style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration: none; font-size:                    0.85em;">Paper</a>
         <a href="https://github.com/GuanjieLyu/EBC_SymmetryTest" target="_blank" style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration: none; font-size: 0.85em;">R Code</a>
         </li>
-       </ol>
+        </ol>
         </div>
 
   - block: resume-awards

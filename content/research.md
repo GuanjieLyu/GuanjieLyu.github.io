@@ -96,7 +96,9 @@ sections:
 
         <li>
         <strong>Guanjie Lyu</strong><sup>*</sup>, Cindy Feng. (2026+).
-        <a target="_blank" style="text-decoration: underline;">Smooth cumulative hazard function using <a target="_blank">Sz&aacute;sz-Mirakyan</a> operators for right-censored data</a>.
+        <a target="_blank" style="text-decoration: underline;">
+         Smooth cumulative hazard function using Sz&aacute;sz-Mirakyan operators for right-censored data
+        </a>.
         </li>
 
         <li>

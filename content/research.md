@@ -53,6 +53,11 @@ sections:
         <a target="_blank" style="text-decoration: underline;">Copula-based joint modeling of emergency department visits with time-varying dependence</a>.
         <span style="font-style: italic;">Canadian Journal of Statistics</span>. Accepted.
         </li>
+    
+        <li style="counter-increment: ref;">
+        Jasper Arends, <strong>Guanjie Lyu</strong>, Mhamed Mesfioui, Elisa Perrone<sup>*</sup>, Julien Trufin. (2025+).
+        <a target="_blank" style="text-decoration: underline;">Rank-based concordance for zero-inflated data: New representations, estimators, and sharp bounds</a>.
+        </li>
 
         <li style="counter-increment: ref;">
         Jasper Arends, <strong>Guanjie Lyu</strong>, Mhamed Mesfioui, Elisa Perrone<sup>*</sup>, Julien Trufin. (2025+).

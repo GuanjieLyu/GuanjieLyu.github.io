@@ -53,7 +53,12 @@ sections:
         <a target="_blank" style="text-decoration: underline;">Copula-based joint modeling of emergency department visits with time-varying dependence</a>.
         <span style="font-style: italic;">Canadian Journal of Statistics</span>. Accepted.
         </li>
-    
+
+        <li style="counter-increment: ref;">
+        Jasper Arends, <strong>Guanjie Lyu</strong>, Mhamed Mesfioui, Elisa Perrone<sup>*</sup>, Julien Trufin. (2025+).
+        <a target="_blank" style="text-decoration: underline;">Spearman's rho for zero-inflated count data: formulation and attainable bounds</a>.
+        </li>
+
         <li style="counter-increment: ref;">
         <strong>Guanjie Lyu</strong><sup>*</sup>, Mohamed Belalia. (2024+).
         <a target="_blank" style="text-decoration: underline;">Testing independence using C-power functions</a>.

@@ -49,6 +49,12 @@ sections:
         </li>
 
         <li>
+        <strong>Guanjie Lyu</strong>, Mohamed Belalia, Abdulkadir Hussein<sup>*</sup>. (2026+).
+        <a target="_blank" style="text-decoration: underline;">Semiparametric copula-based quantile regression for semicontinuous
+         outcomes with application to healthcare data</a>.
+        </li>
+
+        <li>
         <strong>Guanjie Lyu</strong>, Lihui Liu, Cindy Feng<sup>*</sup>. (2026).
         <a target="_blank" style="text-decoration: underline;">Copula-based joint modeling of emergency department visits with time-varying dependence</a>.
         <span style="font-style: italic;">Canadian Journal of Statistics</span>. Accepted.

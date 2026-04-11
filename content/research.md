@@ -111,6 +111,13 @@ sections:
         <ol class="pub-list">
 
         <li>
+        Hanen Daayeb, Wissem Jedidi, Salah Khardani, <strong>Guanjie Lyu</strong>, Fr&eacute;d&eacute;ric Ouimet<sup>*</sup>. (2026+).
+        <a target="_blank" style="text-decoration: underline;">
+         Dirichlet kernel density estimation on the simplex with missing data
+        </a>.
+        </li>
+
+        <li>
         <strong>Guanjie Lyu</strong><sup>*</sup>, Fr&eacute;d&eacute;ric Ouimet, Cindy Feng. (2026+).
         <a target="_blank" style="text-decoration: underline;">
            Asymptotic properties of multivariate Sz&aacute;sz-Mirakyan distribution
@@ -156,7 +163,7 @@ sections:
          border-bottom:1.5px solid #444;
          width:1500px;
          padding-bottom:4px;">
-         Statistical applications in health sciences
+         Applied research in health sciences
         </h2>
 
         <ol class="pub-list">

@@ -175,6 +175,12 @@ sections:
         <span style="font-style: italic;">Canadian Journal of Public Health</span>. Accepted.
         <a href="https://link.springer.com/article/10.17269/s41997-025-01092-8" target="_blank" style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration: none; font-size:0.85em;">Paper</a>
         </li>
-    
+
+        <li>
+        Cindy Feng<sup>*</sup>, <strong>Guanjie Lyu</strong>, Mark Asbridge, Amy Grant, Katie Mclsssc, JianLi Wang, Vincent Agyapong, Bryanne Taylor, Patryk Simon, Lihui Liu, Swarna Weerasinghe. (2026+).
+        <a target="_blank" style="text-decoration: underline;">Spatial and Temporal Patterns of Emergency Department Readmission for Mental
+         Health and Substance Use Conditions.</a>.
+        </li>
+
         </div>
 ---

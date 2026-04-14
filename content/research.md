@@ -44,6 +44,12 @@ sections:
         <ol class="pub-list">
 
         <li>
+        <strong>Guanjie Lyu</strong>, Cindy Feng<sup>*</sup>, Lihui Liu. (2026+).
+        <a target="_blank" style="text-decoration: underline;">Copula-Based Joint Modelling of Emergency
+         Department Length of Stay and Readmission with Endogeneity</a>.
+        </li>
+
+        <li>
         <strong>Guanjie Lyu</strong><sup>*</sup>, Mohamed Belalia, Yuling Chen<sup>&dagger;</sup>. (2026+).
         <a target="_blank" style="text-decoration: underline;">On the computation and efficiency of the integrated empirical copula process for testing independence</a>.
         </li>

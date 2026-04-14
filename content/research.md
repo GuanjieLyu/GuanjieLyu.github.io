@@ -112,7 +112,7 @@ sections:
 
         <li>
        <strong>Guanjie Lyu</strong><sup>*</sup>, Cindy Feng. (2026+).
-        <a target="_blank" style="text-decoration: underline;">
+       <a target="_blank" style="text-decoration: underline;">
           Smoothing parameter selection for the Sz&aacute;sz-Mirakyan distribution estimator
         </a>.
         </li>

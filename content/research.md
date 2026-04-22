@@ -49,6 +49,11 @@ sections:
         </li>
 
         <li>
+        <strong>Guanjie Lyu</strong>, Cindy Feng<sup>*</sup>. (2026+).
+        <a target="_blank" style="text-decoration: underline;">	Copula-Based Bivariate Distributional Regression for Estimating Joint and Conditional Exceedance Probabilities in Overdispersed Count Data</a>.
+        </li>
+
+        <li>
         <strong>Guanjie Lyu</strong>, Cindy Feng<sup>*</sup>, Lihui Liu. (2026+).
         <a target="_blank" style="text-decoration: underline;">Copula-Based Joint Modelling of Emergency
          Department Length of Stay and Readmission with Endogeneity</a>.

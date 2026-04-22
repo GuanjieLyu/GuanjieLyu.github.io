@@ -44,6 +44,11 @@ sections:
         <ol class="pub-list">
 
         <li>
+        <strong>Guanjie Lyu</strong>, Cindy Feng<sup>*</sup>. (2026+).
+        <a target="_blank" style="text-decoration: underline;">Joint Copula‑Based Beta Regression with Covariate‑Dependent Dispersion for Malaria Indicators</a>.
+        </li>
+
+        <li>
         <strong>Guanjie Lyu</strong>, Cindy Feng<sup>*</sup>, Lihui Liu. (2026+).
         <a target="_blank" style="text-decoration: underline;">Copula-Based Joint Modelling of Emergency
          Department Length of Stay and Readmission with Endogeneity</a>.

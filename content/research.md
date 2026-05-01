@@ -127,7 +127,7 @@ sections:
         <ol class="pub-list">
 
         <li>
-        <strong>Guanjie Lyu</strong><sup>*</sup>, Fr&eacute;d&eacute;ric Ouimet, Cindy Feng. (2026+).
+        <strong>Guanjie Lyu</strong>, Fr&eacute;d&eacute;ric Ouimet<sup>*</sup>, Cindy Feng. (2026+).
         <a target="_blank" style="text-decoration: underline;">
            Tweedie-based nonparametric estimation for semicontinuous mixed densities
         </a>.

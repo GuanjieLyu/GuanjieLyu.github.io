@@ -44,6 +44,13 @@ sections:
         <ol class="pub-list">
 
         <li>
+        <strong>Guanjie Lyu</strong>, Fr&eacute;d&eacute;ric Ouimet<sup>*</sup>, Selim Orhun Susam. (2026+).
+        <a target="_blank" style="text-decoration: underline;">
+           Bernstein smoothing and bootstrap inference for lower-tail Spearman’s rho
+        </a>.
+        </li>
+
+        <li>
         <strong>Guanjie Lyu</strong>, Cindy Feng<sup>*</sup>. (2026+).
         <a target="_blank" style="text-decoration: underline;">Joint Copula‑Based Beta Regression with Covariate‑Dependent Dispersion for Malaria Indicators</a>.
         </li>
@@ -126,12 +133,7 @@ sections:
 
         <ol class="pub-list">
 
-        <li>
-        <strong>Guanjie Lyu</strong>, Fr&eacute;d&eacute;ric Ouimet<sup>*</sup>, Selim Orhun Susam. (2026+).
-        <a target="_blank" style="text-decoration: underline;">
-           Bernstein smoothing and bootstrap inference for lower-tail Spearman’s rho
-        </a>.
-        </li>
+
 
         <li>
         <strong>Guanjie Lyu</strong>, Fr&eacute;d&eacute;ric Ouimet<sup>*</sup>, Cindy Feng. (2026+).

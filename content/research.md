@@ -77,6 +77,12 @@ sections:
          outcomes with application to healthcare data</a>.
         </li>
 
+        <li style="counter-increment: ref;">
+        Jasper Arends, <strong>Guanjie Lyu</strong>, Mhamed Mesfioui, Elisa Perrone<sup>*</sup>, Julien Trufin. (2026).
+        <a target="_blank" style="text-decoration: underline;">Spearman's rho for zero-inflated count data: formulation and attainable bounds</a>.
+        <span style="font-style: italic;">Statistics and Probability Letters</span>. Accepted.
+        </li>
+
         <li>
         <strong>Guanjie Lyu</strong>, Lihui Liu, Cindy Feng<sup>*</sup>. (2026).
         <a target="_blank" style="text-decoration: underline;">Copula-based joint modeling of emergency department visits with time-varying dependence</a>.
@@ -88,11 +94,6 @@ sections:
         <a target="_blank" style="text-decoration: underline;">Rank-based concordance for zero-inflated data: New representations, estimators, and sharp bounds</a>.
         </li>
 
-        <li style="counter-increment: ref;">
-        Jasper Arends, <strong>Guanjie Lyu</strong>, Mhamed Mesfioui, Elisa Perrone<sup>*</sup>, Julien Trufin. (2025+).
-        <a target="_blank" style="text-decoration: underline;">Spearman's rho for zero-inflated count data: formulation and attainable bounds</a>.
-        <span style="font-style: italic;">Statistics and Probability Letters</span>. Accepted.
-        </li>
 
         <li style="counter-increment: ref;">
         <strong>Guanjie Lyu</strong><sup>*</sup>, Mohamed Belalia. (2024+).

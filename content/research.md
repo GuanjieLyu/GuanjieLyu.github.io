@@ -91,6 +91,7 @@ sections:
         <li style="counter-increment: ref;">
         Jasper Arends, <strong>Guanjie Lyu</strong>, Mhamed Mesfioui, Elisa Perrone<sup>*</sup>, Julien Trufin. (2025+).
         <a target="_blank" style="text-decoration: underline;">Spearman's rho for zero-inflated count data: formulation and attainable bounds</a>.
+        <span style="font-style: italic;">Statistics and Probability Letters</span>. Accepted.
         </li>
 
         <li style="counter-increment: ref;">

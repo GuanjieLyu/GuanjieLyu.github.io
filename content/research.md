@@ -46,6 +46,13 @@ sections:
         <li>
         <strong>Guanjie Lyu</strong>, Fr&eacute;d&eacute;ric Ouimet<sup>*</sup>, Selim Orhun Susam. (2026+).
         <a target="_blank" style="text-decoration: underline;">
+           On the boundary properties of the empirical Bernstein copula
+        </a>.
+        </li>
+
+        <li>
+        <strong>Guanjie Lyu</strong>, Fr&eacute;d&eacute;ric Ouimet<sup>*</sup>, Selim Orhun Susam. (2026+).
+        <a target="_blank" style="text-decoration: underline;">
            Bernstein smoothing and bootstrap inference for lower-tail Spearman’s rho function
         </a>.
         </li>

@@ -49,13 +49,15 @@ sections:
            On the boundary properties of the empirical Bernstein copula
         </a>.
         </li>
-
+    
+        <!--
         <li>
         <strong>Guanjie Lyu</strong>, Fr&eacute;d&eacute;ric Ouimet<sup>*</sup>, Selim Orhun Susam. (2026+).
         <a target="_blank" style="text-decoration: underline;">
            Bernstein-smoothed estimation and bootstrap inference for lower-tail Spearman's rho curve
         </a>.
         </li>
+        -->
 
         <li>
         <strong>Guanjie Lyu</strong>, Cindy Feng<sup>*</sup>. (2026+).

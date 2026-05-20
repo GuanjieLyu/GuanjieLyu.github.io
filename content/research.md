@@ -96,6 +96,7 @@ sections:
         <strong>Guanjie Lyu</strong>, Lihui Liu, Cindy Feng<sup>*</sup>. (2026).
         <a target="_blank" style="text-decoration: underline;">Copula-based joint modeling of emergency department visits with time-varying dependence</a>.
         <span style="font-style: italic;">Canadian Journal of Statistics</span>. Accepted.
+        <a href="https://www.sciencedirect.com/science/article/pii/S0167715226001902?via%3Dihub" target="_blank" style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration: none;             font-size: 0.85em;">Paper</a>
         </li>
     
         <li style="counter-increment: ref;">

@@ -228,7 +228,7 @@ sections:
         </li>
 
         <li>
-        Cindy Feng<sup>*</sup>, <strong>Guanjie Lyu</strong>, Mark Asbridge, Amy Grant, Katie Mclsssc, JianLi Wang, Vincent Agyapong, Bryanne Taylor, Patryk Simon, Lihui Liu, Swarna Weerasinghe. (2026+).
+        Cindy Feng<sup>*</sup>, <strong>Guanjie Lyu</strong>, Mark Asbridge, Amy Grant, Kathryn Mclsaac, JianLi Wang, Vincent Agyapong, Bryanne Taylor, Patryk Simon, Lihui Liu, Swarna Weerasinghe. (2026+).
         <a target="_blank" style="text-decoration: underline;">Spatial and Temporal Patterns of Emergency Department Readmission for Mental
          Health and Substance Use Conditions</a>.
         </li>

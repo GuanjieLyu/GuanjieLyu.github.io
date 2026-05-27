@@ -167,6 +167,13 @@ sections:
          Dirichlet kernel density estimation on the simplex with missing data
         </a>.
         </li>
+ 
+        <li>
+        <strong>Guanjie Lyu</strong><sup>*</sup>, Cindy Feng. (2026+).
+        <a target="_blank" style="text-decoration: underline;">
+         Smooth cumulative hazard function using Sz&aacute;sz-Mirakyan operators for right-censored data
+        </a>.
+        </li>
 
         <li>
         <strong>Guanjie Lyu</strong><sup>*</sup>, Fr&eacute;d&eacute;ric Ouimet, Cindy Feng. (2026+).
@@ -174,14 +181,7 @@ sections:
            Asymptotic properties of multivariate Sz&aacute;sz-Mirakyan distribution
            estimators on the nonnegative orthant
         </a>.
-        </li>
-
- 
-        <li>
-        <strong>Guanjie Lyu</strong><sup>*</sup>, Cindy Feng. (2026+).
-        <a target="_blank" style="text-decoration: underline;">
-         Smooth cumulative hazard function using Sz&aacute;sz-Mirakyan operators for right-censored data
-        </a>.
+        <span style="font-style: italic;">Methodology and Computing in Applied Probability</span>. Accepted.
         </li>
 
         <li>

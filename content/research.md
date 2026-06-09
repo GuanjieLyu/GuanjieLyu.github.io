@@ -87,6 +87,23 @@ sections:
         </li>
 
         <li style="counter-increment: ref;">
+        Jasper Arends, <strong>Guanjie Lyu</strong>, Mhamed Mesfioui, Elisa Perrone<sup>*</sup>, Julien Trufin. (2026+).
+        <a target="_blank" style="text-decoration: underline;">Rank-based concordance for zero-inflated data: New representations, estimators, and sharp bounds</a>.
+        </li>
+
+
+        <li style="counter-increment: ref;">
+        <strong>Guanjie Lyu</strong><sup>*</sup>, Mohamed Belalia. (2026+).
+        <a target="_blank" style="text-decoration: underline;">Testing independence using C-power functions</a>.
+        </li>
+
+        <li style="counter-increment: ref;">
+        <strong>Guanjie Lyu</strong>, Mohamed Belalia<sup>*</sup>. (2026+).
+        <a target="_blank" style="text-decoration: underline;">Testing equality between the dependence structures of two samples using Bernstein polynomials</a>.
+        <span style="font-style: italic;">arXiv:2303.02510</span>.
+        </li>
+
+        <li style="counter-increment: ref;">
         Jasper Arends, <strong>Guanjie Lyu</strong>, Mhamed Mesfioui, Elisa Perrone<sup>*</sup>, Julien Trufin. (2026).
         <a target="_blank" style="text-decoration: underline;">Spearman's rho for zero-inflated count data: formulation and attainable bounds</a>.
         <span style="font-style: italic;">Statistics and Probability Letters</span>. Accepted.
@@ -97,23 +114,6 @@ sections:
         <strong>Guanjie Lyu</strong>, Lihui Liu, Cindy Feng<sup>*</sup>. (2026).
         <a target="_blank" style="text-decoration: underline;">Copula-based joint modeling of emergency department visits with time-varying dependence</a>.
         <span style="font-style: italic;">Canadian Journal of Statistics</span>. Accepted.
-        </li>
-    
-        <li style="counter-increment: ref;">
-        Jasper Arends, <strong>Guanjie Lyu</strong>, Mhamed Mesfioui, Elisa Perrone<sup>*</sup>, Julien Trufin. (2025+).
-        <a target="_blank" style="text-decoration: underline;">Rank-based concordance for zero-inflated data: New representations, estimators, and sharp bounds</a>.
-        </li>
-
-
-        <li style="counter-increment: ref;">
-        <strong>Guanjie Lyu</strong><sup>*</sup>, Mohamed Belalia. (2024+).
-        <a target="_blank" style="text-decoration: underline;">Testing independence using C-power functions</a>.
-        </li>
-
-        <li style="counter-increment: ref;">
-        <strong>Guanjie Lyu</strong>, Mohamed Belalia<sup>*</sup>. (2024+).
-        <a target="_blank" style="text-decoration: underline;">Testing equality between the dependence structures of two samples using Bernstein polynomials</a>.
-        <span style="font-style: italic;">arXiv:2303.02510</span>.
         </li>
 
         <li style="counter-increment: ref;">

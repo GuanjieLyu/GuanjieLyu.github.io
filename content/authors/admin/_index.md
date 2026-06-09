@@ -18,8 +18,8 @@ superuser: true
 role: Postdoctoral Research Fellow
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Dalhousie Univeristy
-    url: https://www.dal.ca/
+  - name: Univeristy of Windsor
+    url: https://www.uwindsor.ca/
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.

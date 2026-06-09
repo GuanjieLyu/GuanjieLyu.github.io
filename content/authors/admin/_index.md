@@ -36,12 +36,12 @@ profiles:
     label: Download my resume
 ---
 
-Hello, and welcome to my homepage! I am a Postdoctoral Fellow at Dalhousie University, working under the supervision of [Dr. Cindy Feng](https://sites.google.com/view/cindyfeng). Before that, I earned my PhD degree at the University of Windsor in 2024, under the supervision of [Dr. Mohamed Belalia](https://www.uwindsor.ca/science/math/704/faculty-dr-mohamed-belalia).
+Hello, and welcome to my homepage! I am a postdoctoral fellow at the University of Windsor, working under the supervision of [Dr. Abdul A. Hussein](https://www.uwindsor.ca/science/math/709/faculty-dr-abdul-hussein) and [Dr. Mohamed Belalia](https://www.uwindsor.ca/science/math/704/faculty-dr-mohamed-belalia). Previously, I was a postdoctoral fellow at Dalhousie University from February 2025 to May 2026, working with [Dr. Cindy Feng](https://sites.google.com/view/cindyfeng).
 
-My research primarily focuses on Bernstein polynomials and copula modeling, with applications in statistics and data analysis. I appreciate any comments or advice on my research and look forward to potential collaborations. Feel free to contact me at guanjielyu@gmail.com.
+My research primarily focuses on nonparametric inference and copula modeling, with applications in statistics and data analysis. I appreciate any comments or advice on my research and look forward to potential collaborations. Feel free to contact me at guanjielyu@gmail.com.
 
 ---
-*Last updated: May 27th 2026*
+*Last updated: June 9th 2026*
 
 
 

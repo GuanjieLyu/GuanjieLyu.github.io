@@ -182,7 +182,12 @@ sections:
            estimators on the nonnegative orthant
         </a>.
         <span style="font-style: italic;">Methodology and Computing in Applied Probability</span>. Accepted.
+        <a href="    https://link.springer.com/article/10.1007/s11009-026-10294-7?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20260610&utm_content=10.1007/s11009-026-10294-7" target="_blank"
+         style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration: none; font-size: 0.85em;">Paper</a>
+        <a href="https://github.com/FredericOuimetMcGill/MultivariateSzaszMirakyan" target="_blank" style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration: none; font-size:
+         0.85em;">R Code</a>
         </li>
+
 
         <li>
         <strong>Guanjie Lyu</strong>, Mohamed Belalia<sup>*</sup>. (2024).

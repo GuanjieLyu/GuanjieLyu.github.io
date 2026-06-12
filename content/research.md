@@ -102,6 +102,8 @@ sections:
         <strong>Guanjie Lyu</strong>, Cindy Feng<sup>*</sup>. (2026).
         <a target="_blank" style="text-decoration: underline;">Joint Copula‑Based Beta Regression with Covariate‑Dependent Dispersion for Malaria Indicators</a>.
         <span style="font-style: italic;">Canadian Journal of Statistics</span>. Accepted.
+        <a href="https://github.com/GuanjieLyu/LF_Copula-joint-model-with-Beta-margins" target="_blank" style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration: none; font-size:
+         0.85em;">R Code</a>
         </li>
 
         <li style="counter-increment: ref;">

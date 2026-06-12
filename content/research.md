@@ -109,6 +109,7 @@ sections:
         <a target="_blank" style="text-decoration: underline;">Spearman's rho for zero-inflated count data: formulation and attainable bounds</a>.
         <span style="font-style: italic;">Statistics and Probability Letters</span>. Accepted.
         <a href="https://www.sciencedirect.com/science/article/pii/S0167715226001902?via%3Dihub" target="_blank" style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration: none;             font-size: 0.85em;">Paper</a>
+        <a href="https://github.com/JasperArends/SpmZICD" target="_blank" style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration: none; font-size: 0.85em;">R Code</a>
         </li>
 
         <li>

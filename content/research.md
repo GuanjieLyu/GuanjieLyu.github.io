@@ -61,11 +61,6 @@ sections:
 
         <li>
         <strong>Guanjie Lyu</strong>, Cindy Feng<sup>*</sup>. (2026+).
-        <a target="_blank" style="text-decoration: underline;">Joint Copula‑Based Beta Regression with Covariate‑Dependent Dispersion for Malaria Indicators</a>.
-        </li>
-
-        <li>
-        <strong>Guanjie Lyu</strong>, Cindy Feng<sup>*</sup>. (2026+).
         <a target="_blank" style="text-decoration: underline;">	Copula-Based Bivariate Distributional Regression for Estimating Joint and Conditional Exceedance Probabilities in Overdispersed Count Data</a>.
         </li>
 
@@ -101,6 +96,12 @@ sections:
         <strong>Guanjie Lyu</strong>, Mohamed Belalia<sup>*</sup>. (2026+).
         <a target="_blank" style="text-decoration: underline;">Testing equality between the dependence structures of two samples using Bernstein polynomials</a>.
         <span style="font-style: italic;">arXiv:2303.02510</span>.
+        </li>
+
+        <li>
+        <strong>Guanjie Lyu</strong>, Cindy Feng<sup>*</sup>. (2026+).
+        <a target="_blank" style="text-decoration: underline;">Joint Copula‑Based Beta Regression with Covariate‑Dependent Dispersion for Malaria Indicators</a>.
+        <span style="font-style: italic;">Canadian Journal of Statistics</span>. Accepted.
         </li>
 
         <li style="counter-increment: ref;">

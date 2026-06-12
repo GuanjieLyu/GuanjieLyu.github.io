@@ -41,7 +41,7 @@ Hello, and welcome to my homepage! I am a postdoctoral fellow at the University 
 My research primarily focuses on nonparametric inference and copula modeling, with applications in health data analysis. I welcome any comments or advice on my work and look forward to potential collaborations. Please feel free to contact me at guanjielyu@gmail.com.
 
 ---
-*Last updated: June 9th 2026*
+*Last updated: June 12th 2026*
 
 
 

@@ -24,7 +24,7 @@ sections:
         - text: An Excellent Chinese TV Series "Romance of The Three Kingdoms"
           icon: brands/youtube
           url: https://www.youtube.com/playlist?list=PLIj4BzSwQ-_ueXTO7EBmShk1b3lEqc5b_
-        - text: "Darkest Dungeon" a great roguelike RPG
+        - text: '"Darkest Dungeon" a great roguelike RPG'
           icon: brands/steam
           url: https://store.steampowered.com/app/262060/Darkest_Dungeon/   
 ---

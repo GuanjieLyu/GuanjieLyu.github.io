@@ -21,4 +21,7 @@ sections:
         - text: An Excellent Chinese TV Series "Ming Dynasty 1566"
           icon: brands/youtube
           url: https://www.youtube.com/results?search_query=ming+dynasty+1566
+        - text: An Excellent Chinese TV Series "Romance of The Three Kingdoms"
+          icon: brands/youtube
+          url: https://www.youtube.com/playlist?list=PLIj4BzSwQ-_ueXTO7EBmShk1b3lEqc5b_
 ---

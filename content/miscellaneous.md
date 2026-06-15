@@ -26,6 +26,5 @@ sections:
           url: https://www.youtube.com/playlist?list=PLIj4BzSwQ-_ueXTO7EBmShk1b3lEqc5b_
         - text: "Darkest Dungeon" a great roguelike RPG
           icon: brands/youtube
-          url: https://store.steampowered.com/app/262060/Darkest_Dungeon/
-    
+          url: https://store.steampowered.com/app/262060/Darkest_Dungeon/   
 ---

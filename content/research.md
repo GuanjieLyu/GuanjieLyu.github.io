@@ -164,13 +164,15 @@ sections:
           Smoothing parameter selection for the Sz&aacute;sz-Mirakyan distribution estimator
         </a>.
         </li>
-        
+
+        <!--
         <li>
         Hanen Daayeb, Wissem Jedidi, Salah Khardani, <strong>Guanjie Lyu</strong>, Fr&eacute;d&eacute;ric Ouimet<sup>*</sup>. (2026+).
         <a target="_blank" style="text-decoration: underline;">
          Dirichlet kernel density estimation on the simplex with missing data
         </a>.
         </li>
+        -->
  
         <li>
         <strong>Guanjie Lyu</strong><sup>*</sup>, Cindy Feng. (2026+).

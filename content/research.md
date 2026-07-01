@@ -44,7 +44,7 @@ sections:
         <ol class="pub-list">
 
         <li>
-        <strong>Guanjie Lyu</strong>, Selim Orhun Susam. (2026+).
+        <strong>Guanjie Lyu</strong>, Selim Orhun Susam<sup>*</sup>. (2026+).
         <a target="_blank" style="text-decoration: underline;">
            On the moving-boundary expansions for the empirical Bernstein copula</a>.
         </li>

@@ -46,16 +46,14 @@ sections:
         <li>
         <strong>Guanjie Lyu</strong>, Selim Orhun Susam. (2026+).
         <a target="_blank" style="text-decoration: underline;">
-           On the moving-boundary expansions for the empirical Bernstein copula
-        </a>.
+           On the moving-boundary expansions for the empirical Bernstein copula</a>.
         </li>
     
         <!--
         <li>
         <strong>Guanjie Lyu</strong>, Fr&eacute;d&eacute;ric Ouimet<sup>*</sup>, Selim Orhun Susam. (2026+).
         <a target="_blank" style="text-decoration: underline;">
-           Bernstein-smoothed estimation and bootstrap inference for lower-tail Spearman's rho curve
-        </a>.
+           Bernstein-smoothed estimation and bootstrap inference for lower-tail Spearman's rho curve</a>.
         </li>
         -->
 

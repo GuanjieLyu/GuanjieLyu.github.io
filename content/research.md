@@ -152,8 +152,7 @@ sections:
         <li>
         <strong>Guanjie Lyu</strong>, Fr&eacute;d&eacute;ric Ouimet<sup>*</sup>, Cindy Feng. (2026+).
         <a target="_blank" style="text-decoration: underline;">
-           Tweedie-based nonparametric estimation for semicontinuous mixed densities
-        </a>.
+           Tweedie-based nonparametric estimation for semicontinuous mixed densities</a>.
         </li>
 
         <li>

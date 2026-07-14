@@ -45,13 +45,6 @@ sections:
 
 
         <li>
-         <strong>Guanjie Lyu</strong>, Mohamed Belalia<sup>*</sup>, Lahcen Douge. (2026+).
-         <a target="_blank" style="text-decoration: underline;">	Nonparametric estimation of Expected Shortfall under weak dependence</a>.
-        </li>
-
-
-
-        <li>
          Cindy Feng<sup>*</sup>, <strong>Guanjie Lyu</strong>. (2026+).
         <a target="_blank" style="text-decoration: underline;">	Residual Dependence Diagnostics for Copula Regression Models Based on Rosenblatt Transformations</a>.
         </li>
@@ -168,6 +161,10 @@ sections:
 
         <ol class="pub-list">
 
+        <li>
+         <strong>Guanjie Lyu</strong>, Mohamed Belalia<sup>*</sup>, Lahcen Douge. (2026+).
+         <a target="_blank" style="text-decoration: underline;">	Nonparametric estimation of Expected Shortfall under weak dependence</a>.
+        </li>
 
 
         <li>

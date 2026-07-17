@@ -50,13 +50,6 @@ sections:
         </li>
 
         <li>
-        <strong>Guanjie Lyu</strong><sup>*</sup>. (2026+).
-        <a target="_blank" style="text-decoration: underline;">
-           Two-sample phi-divergence rank tests for one-sided versatile
-           alternatives</a>.
-        </li>
-
-        <li>
         <strong>Guanjie Lyu</strong><sup>*</sup>, Selim Orhun Susam. (2026+).
         <a target="_blank" style="text-decoration: underline;">
            On the moving-boundary expansions for the empirical Bernstein copula</a>.
@@ -160,6 +153,13 @@ sections:
         </h2>
 
         <ol class="pub-list">
+
+        <li>
+        <strong>Guanjie Lyu</strong><sup>*</sup>. (2026+).
+        <a target="_blank" style="text-decoration: underline;">
+           Two-sample phi-divergence rank tests for one-sided versatile
+           alternatives</a>.
+        </li>
 
         <li>
          <strong>Guanjie Lyu</strong>, Mohamed Belalia<sup>*</sup>, Lahcen Douge. (2026+).

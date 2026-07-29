@@ -85,11 +85,6 @@ sections:
          outcomes with application to healthcare data</a>.
         </li>
 
-        <li style="counter-increment: ref;">
-        Jasper Arends, <strong>Guanjie Lyu</strong>, Mhamed Mesfioui, Elisa Perrone<sup>*</sup>, Julien Trufin. (2026+).
-        <a target="_blank" style="text-decoration: underline;">Rank-based concordance for zero-inflated data: New representations, estimators, and sharp bounds</a>.
-        </li>
-
 
         <li style="counter-increment: ref;">
         <strong>Guanjie Lyu</strong><sup>*</sup>, Mohamed Belalia. (2026+).
@@ -100,6 +95,12 @@ sections:
         <strong>Guanjie Lyu</strong>, Mohamed Belalia<sup>*</sup>. (2026+).
         <a target="_blank" style="text-decoration: underline;">Testing equality between the dependence structures of two samples using Bernstein polynomials</a>.
         <span style="font-style: italic;">arXiv:2303.02510</span>.
+        </li>
+
+        <li style="counter-increment: ref;">
+        Jasper Arends, <strong>Guanjie Lyu</strong>, Mhamed Mesfioui, Elisa Perrone<sup>*</sup>, Julien Trufin. (2026+).
+        <a target="_blank" style="text-decoration: underline;">Rank-based concordance for zero-inflated data: New representations, associated estimators, and sharp bounds</a>.
+        <span style="font-style: italic;">Statistical Papers</span>. Accepted.
         </li>
 
         <li>

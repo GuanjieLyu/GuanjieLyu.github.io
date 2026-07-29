@@ -98,7 +98,7 @@ sections:
         </li>
 
         <li style="counter-increment: ref;">
-        Jasper Arends, <strong>Guanjie Lyu</strong>, Mhamed Mesfioui, Elisa Perrone<sup>*</sup>, Julien Trufin. (2026+).
+        Jasper Arends, <strong>Guanjie Lyu</strong>, Mhamed Mesfioui, Elisa Perrone<sup>*</sup>, Julien Trufin. (2026).
         <a target="_blank" style="text-decoration: underline;">Rank-based concordance for zero-inflated data: New representations, associated estimators, and sharp bounds</a>.
         <span style="font-style: italic;">Statistical Papers</span>. Accepted.
         </li>

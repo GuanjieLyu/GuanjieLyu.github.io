@@ -101,6 +101,7 @@ sections:
         Jasper Arends, <strong>Guanjie Lyu</strong>, Mhamed Mesfioui, Elisa Perrone<sup>*</sup>, Julien Trufin. (2026).
         <a target="_blank" style="text-decoration: underline;">Rank-based concordance for zero-inflated data: New representations, associated estimators, and sharp bounds</a>.
         <span style="font-style: italic;">Statistical Papers</span>. Accepted.
+        <a href="https://link.springer.com/article/10.1007/s00362-026-01890-3?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20260819&utm_content=10.1007/s00362-026-01890-3" target="_blank" style="color:              white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration: none;             font-size: 0.85em;">Paper</a>
         <a href="https://github.com/JasperArends/ConcZID" target="_blank" style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration: none; font-size:
          0.85em;">R Code</a>
         </li>

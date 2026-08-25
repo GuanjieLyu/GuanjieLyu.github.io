@@ -181,6 +181,7 @@ sections:
         <strong>Guanjie Lyu</strong><sup>*</sup>, Cindy Feng. (2026+). 
         <a target="_blank" style="text-decoration: underline;">
           Smoothing parameter selection for the Sz&aacute;sz-Mirakyan distribution estimator</a>.
+        <a href="https://github.com/GuanjieLyu/Bandwidth-selectors-for-Szasz-distribution-estimator" target="_blank" style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration:               none; font-size: 0.85em;">R Code</a>
         </li>
 
         <!--

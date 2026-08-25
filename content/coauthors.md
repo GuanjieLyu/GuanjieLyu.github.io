@@ -11,7 +11,7 @@ sections:
       text: |-
         <div class="ca-wrap">
         <style>
-        .ca-wrap{max-width:1000px;margin-top:-1rem;line-height:1.6}
+        .ca-wrap{max-width:1000px;margin:-1rem auto 0;padding:0 1rem;line-height:1.6}
         .ca-map{width:100%;height:auto;display:block;margin:0 auto 0.35rem}
         .ca-land{fill:#e4e8eb;stroke:#ccd3d8}
         .ca-pin{fill:#34617a;cursor:pointer;transition:fill .15s}

@@ -73,7 +73,6 @@ sections:
         <li class="ca-item" data-loc="halifax" data-check="1"><span class="ca-name">JianLi Wang</span><span class="ca-aff">Dalhousie University</span></li>
         <li class="ca-item" data-loc="halifax" data-check="1"><span class="ca-name">Swarna Weerasinghe</span><span class="ca-aff">Dalhousie University</span></li>
         </ul>
-        <p class="ca-foot">Affiliations reflect the institution at the time of our joint work. Papers are listed on the <a href="/research/" style="text-decoration:underline;">Research</a> page.</p>
         </div>
         <script>
         (function(){

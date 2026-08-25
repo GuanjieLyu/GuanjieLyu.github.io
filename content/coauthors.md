@@ -46,7 +46,6 @@ sections:
         <g class="ca-g" data-loc="eindhoven" data-lat="51.44" data-lon="5.48" tabindex="0" role="button" aria-label="Eindhoven, Netherlands"><circle class="ca-ring" r="27"/><circle class="ca-pin" r="15"><title>Eindhoven, Netherlands</title></circle></g>
         <g class="ca-g" data-loc="tunis" data-lat="36.81" data-lon="10.18" tabindex="0" role="button" aria-label="Tunis, Tunisia"><circle class="ca-ring" r="27"/><circle class="ca-pin" r="15"><title>Tunis, Tunisia</title></circle></g>
         <g class="ca-g" data-loc="tunceli" data-lat="39.11" data-lon="39.54" tabindex="0" role="button" aria-label="Tunceli, T&uuml;rkiye"><circle class="ca-ring" r="27"/><circle class="ca-pin" r="15"><title>Tunceli, T&uuml;rkiye</title></circle></g>
-        <g class="ca-g" data-loc="riyadh" data-lat="24.71" data-lon="46.68" tabindex="0" role="button" aria-label="Riyadh, Saudi Arabia"><circle class="ca-ring" r="27"/><circle class="ca-pin" r="15"><title>Riyadh, Saudi Arabia</title></circle></g>
         </svg>
         <div class="ca-bar"><span class="ca-status" id="ca-status">24 coauthors, 9 locations</span><button class="ca-reset" id="ca-reset" type="button">Show all</button></div>
         <ul class="ca-grid">

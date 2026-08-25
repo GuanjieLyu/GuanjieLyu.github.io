@@ -26,15 +26,14 @@ sections:
         .ca-reset{font-size:0.76rem;background:none;border:1px solid var(--ca-rule);border-radius:99px;padding:3px 12px;cursor:pointer;color:var(--ca-mute);opacity:0;pointer-events:none;transition:opacity .3s ease,border-color .3s ease}
         .ca-reset.on{opacity:1;pointer-events:auto}
         .ca-reset:hover{border-color:var(--ca-accent);color:var(--ca-accent)}
-        .ca-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:6px 1.1rem;list-style:none;padding:0;margin:0}
-        .ca-item{padding:7px 10px;border-radius:7px;transition:background .3s ease,opacity .3s ease,box-shadow .3s ease}
+        .ca-grid{display:grid !important;grid-template-columns:repeat(4,minmax(0,1fr)) !important;gap:6px 1rem;list-style:none;padding:0;margin:0}
+        .ca-item{min-width:0;overflow-wrap:break-word;padding:7px 9px;border-radius:7px;transition:background .3s ease,opacity .3s ease,box-shadow .3s ease}
         .ca-item.dim{opacity:0.32}
         .ca-item.hit{background:var(--ca-tint);box-shadow:inset 2px 0 0 var(--ca-accent)}
-        .ca-name{font-size:0.9rem;line-height:1.35;display:block}
-        .ca-aff{display:block;font-size:0.75rem;line-height:1.35;color:var(--ca-mute);min-height:2.7em;margin-top:2px}
-        @media (max-width:980px){.ca-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
-        @media (max-width:760px){.ca-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
-        @media (max-width:480px){.ca-grid{grid-template-columns:minmax(0,1fr)}.ca-aff{min-height:0}}
+        .ca-name{font-size:0.87rem;line-height:1.35;display:block}
+        .ca-aff{display:block;font-size:0.73rem;line-height:1.35;color:var(--ca-mute);min-height:2.7em;margin-top:2px}
+        @media (max-width:700px){.ca-grid{grid-template-columns:repeat(2,minmax(0,1fr)) !important}}
+        @media (max-width:430px){.ca-grid{grid-template-columns:minmax(0,1fr) !important}.ca-aff{min-height:0}}
         @media (prefers-reduced-motion:reduce){.ca-item,.ca-pin,.ca-ring,.ca-reset{transition:none}}
         @media (prefers-color-scheme:dark){.ca-wrap{--ca-rule:rgba(255,255,255,0.13);--ca-tint:rgba(212,124,99,0.13);--ca-accent:#d47c63;--ca-mute:#9aa0a6}.ca-land{fill:#333b41;stroke:#454e55}.ca-pin{fill:#7d9cad}}
         html.dark .ca-wrap{--ca-rule:rgba(255,255,255,0.13);--ca-tint:rgba(212,124,99,0.13);--ca-accent:#d47c63;--ca-mute:#9aa0a6}
@@ -52,6 +51,7 @@ sections:
         <g class="ca-g" data-loc="tunis" data-lat="36.81" data-lon="10.18" tabindex="0" role="button" aria-label="Tunis, Tunisia"><circle class="ca-ring" r="27"/><circle class="ca-pin" r="15"><title>Tunis, Tunisia</title></circle></g>
         <g class="ca-g" data-loc="tunceli" data-lat="39.11" data-lon="39.54" tabindex="0" role="button" aria-label="Tunceli, T&uuml;rkiye"><circle class="ca-ring" r="27"/><circle class="ca-pin" r="15"><title>Tunceli, T&uuml;rkiye</title></circle></g>
         </svg>
+        <div class="ca-bar"><span class="ca-status" id="ca-status">23 coauthors, 8 locations</span><button class="ca-reset" id="ca-reset" type="button">Show all</button></div>
         <ul class="ca-grid">
         <li class="ca-item" data-loc="halifax" data-check="1"><span class="ca-name">Vincent Agyapong</span><span class="ca-aff">Dalhousie University</span></li>
         <li class="ca-item" data-loc="eindhoven"><span class="ca-name">Jasper Arends</span><span class="ca-aff">Eindhoven University of Technology</span></li>

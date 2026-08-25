@@ -61,7 +61,6 @@ sections:
         <li class="ca-item" data-loc="halifax" data-check="1"><span class="ca-name">Amy Grant</span><span class="ca-aff">Dalhousie University</span></li>
         <li class="ca-item" data-loc="halifax" data-check="1"><span class="ca-name">Fahima Hassan</span><span class="ca-aff">Dalhousie University</span></li>
         <li class="ca-item" data-loc="windsor"><span class="ca-name">Abdulkadir Hussein</span><span class="ca-aff">University of Windsor</span></li>
-        <li class="ca-item" data-loc="riyadh"><span class="ca-name">Wissem Jedidi</span><span class="ca-aff">King Saud University</span></li>
         <li class="ca-item" data-loc="tunis"><span class="ca-name">Salah Khardani</span><span class="ca-aff">Universit&eacute; de Tunis El Manar</span></li>
         <li class="ca-item" data-loc="halifax" data-check="1"><span class="ca-name">Lihui Liu</span><span class="ca-aff">Dalhousie University</span></li>
         <li class="ca-item" data-loc="halifax" data-check="1"><span class="ca-name">Kathryn McIsaac</span><span class="ca-aff">Dalhousie University</span></li>

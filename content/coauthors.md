@@ -21,8 +21,9 @@ sections:
         .ca-pin.on{fill:var(--ca-accent)}
         .ca-ring{fill:none;stroke:var(--ca-accent);opacity:0;transition:opacity .3s ease}
         .ca-ring.on{opacity:.55}
-        .ca-bar{display:flex;align-items:center;justify-content:space-between;gap:1rem;border-bottom:1px solid var(--ca-rule);padding-bottom:8px;margin-bottom:1rem}
-        .ca-status{font-size:0.82rem;color:var(--ca-mute);letter-spacing:0.01em;transition:color .3s ease}
+        .ca-bar{display:flex;align-items:center;justify-content:space-between;gap:1rem;min-height:1.5rem;border-bottom:1px solid var(--ca-rule);padding-bottom:8px;margin-bottom:1rem}
+        .ca-status{font-size:0.82rem;color:var(--ca-mute);letter-spacing:0.01em;opacity:0;transition:opacity .3s ease}
+        .ca-status.on{opacity:1}
         .ca-reset{font-size:0.76rem;background:none;border:1px solid var(--ca-rule);border-radius:99px;padding:3px 12px;cursor:pointer;color:var(--ca-mute);opacity:0;pointer-events:none;transition:opacity .3s ease,border-color .3s ease}
         .ca-reset.on{opacity:1;pointer-events:auto}
         .ca-reset:hover{border-color:var(--ca-accent);color:var(--ca-accent)}
@@ -51,7 +52,7 @@ sections:
         <g class="ca-g" data-loc="tunis" data-lat="36.81" data-lon="10.18" tabindex="0" role="button" aria-label="Tunis, Tunisia"><circle class="ca-ring" r="27"/><circle class="ca-pin" r="15"><title>Tunis, Tunisia</title></circle></g>
         <g class="ca-g" data-loc="tunceli" data-lat="39.11" data-lon="39.54" tabindex="0" role="button" aria-label="Tunceli, T&uuml;rkiye"><circle class="ca-ring" r="27"/><circle class="ca-pin" r="15"><title>Tunceli, T&uuml;rkiye</title></circle></g>
         </svg>
-        <div class="ca-bar"><span class="ca-status" id="ca-status"></span><button class="ca-reset" id="ca-reset" type="button">Show all</button></div>
+        <div class="ca-bar"><span class="ca-status" id="ca-status" aria-live="polite"></span><button class="ca-reset" id="ca-reset" type="button">Show all</button></div>
         <ul class="ca-grid">
         <li class="ca-item" data-loc="halifax" data-check="1"><span class="ca-name">Vincent Agyapong</span><span class="ca-aff">Dalhousie University</span></li>
         <li class="ca-item" data-loc="eindhoven"><span class="ca-name">Jasper Arends</span><span class="ca-aff">Eindhoven University of Technology</span></li>
@@ -86,9 +87,6 @@ sections:
         var groups=document.querySelectorAll(".ca-g");
         var status=document.getElementById("ca-status");
         var reset=document.getElementById("ca-reset");
-        var seen={};items.forEach(function(el){seen[el.getAttribute("data-loc")]=1});
-        var DEF=items.length+" coauthors, "+Object.keys(seen).length+" locations";
-        status.innerHTML=DEF;
         var active="";var xs=[];var ys=[];
         groups.forEach(function(g){
         var x=(parseFloat(g.getAttribute("data-lon"))+180)*KX;
@@ -111,13 +109,13 @@ sections:
         function clear(){active="";
         items.forEach(function(el){el.classList.remove("dim","hit")});
         groups.forEach(function(g){g.querySelector(".ca-pin").classList.remove("on");g.querySelector(".ca-ring").classList.remove("on")});
-        status.innerHTML=DEF;reset.classList.remove("on")}
+        status.textContent="";status.classList.remove("on");reset.classList.remove("on")}
         function pick(loc,label){if(active===loc){clear();return}active=loc;var n=0;
         items.forEach(function(el){var hit=el.getAttribute("data-loc")===loc;
         el.classList.toggle("hit",hit);el.classList.toggle("dim",!hit);if(hit){n=n+1}});
         groups.forEach(function(g){var on=g.getAttribute("data-loc")===loc;
         g.querySelector(".ca-pin").classList.toggle("on",on);g.querySelector(".ca-ring").classList.toggle("on",on)});
-        status.innerHTML=n+(n===1?" coauthor in ":" coauthors in ")+label;
+        status.innerHTML=label+" &middot; "+n+(n===1?" coauthor":" coauthors");status.classList.add("on");
         reset.classList.add("on")}
         groups.forEach(function(g){var loc=g.getAttribute("data-loc");var label=g.getAttribute("aria-label");
         g.addEventListener("click",function(){pick(loc,label)});

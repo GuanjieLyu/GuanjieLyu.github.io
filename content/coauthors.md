@@ -52,7 +52,6 @@ sections:
         <g class="ca-g" data-loc="tunis" data-lat="36.81" data-lon="10.18" tabindex="0" role="button" aria-label="Tunis, Tunisia"><circle class="ca-ring" r="27"/><circle class="ca-pin" r="15"><title>Tunis, Tunisia</title></circle></g>
         <g class="ca-g" data-loc="tunceli" data-lat="39.11" data-lon="39.54" tabindex="0" role="button" aria-label="Tunceli, T&uuml;rkiye"><circle class="ca-ring" r="27"/><circle class="ca-pin" r="15"><title>Tunceli, T&uuml;rkiye</title></circle></g>
         </svg>
-        <div class="ca-bar"><span class="ca-status" id="ca-status">23 coauthors, 8 locations</span><button class="ca-reset" id="ca-reset" type="button">Show all</button></div>
         <ul class="ca-grid">
         <li class="ca-item" data-loc="halifax" data-check="1"><span class="ca-name">Vincent Agyapong</span><span class="ca-aff">Dalhousie University</span></li>
         <li class="ca-item" data-loc="eindhoven"><span class="ca-name">Jasper Arends</span><span class="ca-aff">Eindhoven University of Technology</span></li>

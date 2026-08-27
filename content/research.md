@@ -85,16 +85,16 @@ sections:
          outcomes with application to healthcare data</a>.
         </li>
 
-
-        <li style="counter-increment: ref;">
-        <strong>Guanjie Lyu</strong><sup>*</sup>, Mohamed Belalia. (2026+).
-        <a target="_blank" style="text-decoration: underline;">Testing independence using C-power functions</a>.
-        </li>
-
         <li style="counter-increment: ref;">
         <strong>Guanjie Lyu</strong>, Mohamed Belalia<sup>*</sup>. (2026+).
         <a target="_blank" style="text-decoration: underline;">Testing equality between the dependence structures of two samples using Bernstein polynomials</a>.
         <span style="font-style: italic;">arXiv:2303.02510</span>.
+        </li>
+
+        <li style="counter-increment: ref;">
+        <strong>Guanjie Lyu</strong><sup>*</sup>, Mohamed Belalia. (2026).
+        <a target="_blank" style="text-decoration: underline;">Testing independence using C-power functions</a>.
+        <span style="font-style: italic;">Journal of Nonparametric Statistics</span>. Accepted.
         </li>
 
         <li style="counter-increment: ref;">

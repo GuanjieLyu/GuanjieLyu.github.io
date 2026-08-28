@@ -75,7 +75,7 @@ sections:
         </li>
 
         <li>
-        <strong>Guanjie Lyu</strong><sup>*</sup>, Mohamed Belalia, Yuling Chen<sup>&dagger;</sup>. (2026+).
+        <strong>Mohamed Belalia, Yuling Chen<sup>&dagger;</sup>, Guanjie Lyu</strong><sup>*</sup>. (2026+).
         <a target="_blank" style="text-decoration: underline;">On the computation and efficiency of the integrated empirical copula process for testing independence</a>.
         </li>
 

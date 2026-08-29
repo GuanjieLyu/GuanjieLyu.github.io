@@ -1,5 +1,5 @@
 ---
-title: 'Postdoctoral Fellow in Statistics'
+title: 'Home'
 type: landing
 
 design:

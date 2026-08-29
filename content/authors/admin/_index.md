@@ -25,7 +25,10 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/guanjie-lyu-585447204/?originalSubdomain=ca 
+    url: https://www.linkedin.com/in/guanjie-lyu-585447204/?originalSubdomain=ca
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0001-9733-6683
+    label: ORCID
   - icon: brands/google-scholar
     url: https://scholar.google.com/citations?user=Pn-F8hgAAAAJ&hl=en
   - icon: brands/github

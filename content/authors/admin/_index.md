@@ -18,7 +18,7 @@ superuser: true
 role: Postdoctoral Research Fellow
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Univeristy of Windsor
+  - name: University of Windsor
     url: https://www.uwindsor.ca/
 
 # Social Networking

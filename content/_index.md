@@ -1,6 +1,5 @@
 ---
-title: 'Home'
-date: 2023-10-24
+title: 'Postdoctoral Fellow in Statistics'
 type: landing
 
 design:

@@ -262,5 +262,10 @@ sections:
          Health and Substance Use Conditions</a>.
         </li>
 
+        <li>
+         Lihui Liu, <strong>Guanjie Lyu</strong>, Cindy Feng<sup>*</sup>. (2026+).
+        <a target="_blank" style="text-decoration: underline;">Inpatient Mental Health and Substance Use Service Use in Nova Scotia: Hospitalization Rates and Length of Stay, 2017–2023</a>.
+        </li>
+
         </div>
 ---

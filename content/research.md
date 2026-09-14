@@ -86,7 +86,7 @@ sections:
         </li>
 
         <li>
-        <strong>Guanjie Lyu</strong>, Fr&eacute;d&eacute;ric Ouimet<sup>*</sup>, Selim Orhun Susam. (2026+).
+        <strong>Guanjie Lyu</strong>, Fr&eacute;d&eacute;ric Ouimet<sup>*</sup>, Selim Orhun Susam. (2026).
         <a target="_blank" style="text-decoration: underline;">
            Bernstein-smoothed estimation and bootstrap inference for the lower-tail Spearman's rho curve</a>.
         <span style="font-style: italic;">Journal of Statistical Computation and Simulation</span>. Accepted.

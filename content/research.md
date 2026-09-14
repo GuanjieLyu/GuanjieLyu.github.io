@@ -98,6 +98,21 @@ sections:
         <span style="font-style: italic;">Journal of Nonparametric Statistics</span>. Accepted.
         </li>
 
+        <li>
+        <strong>Guanjie Lyu</strong>, Cindy Feng<sup>*</sup>，Lihui Liu. (2026).
+        <a target="_blank" style="text-decoration: underline;">Copula-based joint modeling of emergency department visits with time-varying dependence</a>.
+        <span style="font-style: italic;">Canadian Journal of Statistics</span>. Accepted. 
+        <a href="https://onlinelibrary.wiley.com/doi/10.1002/cjs.70059" target="_blank" style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration: none; font-size:                           0.85em;">Paper</a>
+        </li>
+    
+        <li>
+        <strong>Guanjie Lyu</strong>, Cindy Feng<sup>*</sup>. (2026).
+        <a target="_blank" style="text-decoration: underline;">Joint Copula‑Based Beta Regression with Covariate‑Dependent Dispersion for Malaria Indicators</a>.
+        <span style="font-style: italic;">Canadian Journal of Statistics</span>. Accepted.
+        <a href="https://github.com/GuanjieLyu/LF_Copula-joint-model-with-Beta-margins" target="_blank" style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration: none; font-size:
+         0.85em;">R Code</a>
+        </li>
+    
         <li style="counter-increment: ref;">
         Jasper Arends, <strong>Guanjie Lyu</strong>, Mhamed Mesfioui, Elisa Perrone<sup>*</sup>, Julien Trufin. (2026).
         <a target="_blank" style="text-decoration: underline;">Rank-based concordance for zero-inflated data: New representations, associated estimators, and sharp bounds</a>.
@@ -107,27 +122,12 @@ sections:
          0.85em;">R Code</a>
         </li>
 
-        <li>
-        <strong>Guanjie Lyu</strong>, Cindy Feng<sup>*</sup>. (2026).
-        <a target="_blank" style="text-decoration: underline;">Joint Copula‑Based Beta Regression with Covariate‑Dependent Dispersion for Malaria Indicators</a>.
-        <span style="font-style: italic;">Canadian Journal of Statistics</span>. Accepted.
-        <a href="https://github.com/GuanjieLyu/LF_Copula-joint-model-with-Beta-margins" target="_blank" style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration: none; font-size:
-         0.85em;">R Code</a>
-        </li>
-
         <li style="counter-increment: ref;">
         Jasper Arends, <strong>Guanjie Lyu</strong>, Mhamed Mesfioui, Elisa Perrone<sup>*</sup>, Julien Trufin. (2026).
         <a target="_blank" style="text-decoration: underline;">Spearman's rho for zero-inflated count data: formulation and attainable bounds</a>.
         <span style="font-style: italic;">Statistics and Probability Letters</span> 237: 110826.
         <a href="https://www.sciencedirect.com/science/article/pii/S0167715226001902?via%3Dihub" target="_blank" style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration: none;             font-size: 0.85em;">Paper</a>
         <a href="https://github.com/JasperArends/SpmZICD" target="_blank" style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration: none; font-size: 0.85em;">R Code</a>
-        </li>
-
-        <li>
-        <strong>Guanjie Lyu</strong>, Cindy Feng<sup>*</sup>，Lihui Liu. (2026).
-        <a target="_blank" style="text-decoration: underline;">Copula-based joint modeling of emergency department visits with time-varying dependence</a>.
-        <span style="font-style: italic;">Canadian Journal of Statistics</span>. Accepted. 
-        <a href="https://onlinelibrary.wiley.com/doi/10.1002/cjs.70059" target="_blank" style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration: none; font-size:                           0.85em;">Paper</a>
         </li>
 
         <li style="counter-increment: ref;">

@@ -54,14 +54,6 @@ sections:
         <a target="_blank" style="text-decoration: underline;">
            On the moving-boundary expansions for the empirical Bernstein copula</a>.
         </li>
-    
-        <!--
-        <li>
-        <strong>Guanjie Lyu</strong>, Fr&eacute;d&eacute;ric Ouimet<sup>*</sup>, Selim Orhun Susam. (2026+).
-        <a target="_blank" style="text-decoration: underline;">
-           Bernstein-smoothed estimation and bootstrap inference for lower-tail Spearman's rho curve</a>.
-        </li>
-        -->
 
         <li>
         <strong>Guanjie Lyu</strong>, Cindy Feng<sup>*</sup>. (2026+).
@@ -91,6 +83,13 @@ sections:
         <strong>Guanjie Lyu</strong>, Mohamed Belalia<sup>*</sup>. (2026+).
         <a target="_blank" style="text-decoration: underline;">Testing equality between the dependence structures of two samples using Bernstein polynomials</a>.
         <span style="font-style: italic;">arXiv:2303.02510</span>.
+        </li>
+
+        <li>
+        <strong>Guanjie Lyu</strong>, Fr&eacute;d&eacute;ric Ouimet<sup>*</sup>, Selim Orhun Susam. (2026+).
+        <a target="_blank" style="text-decoration: underline;">
+           Bernstein-smoothed estimation and bootstrap inference for the lower-tail Spearman's rho curve</a>.
+        <span style="font-style: italic;">Journal of Statistical Computation and Simulation</span>. Accepted.
         </li>
 
         <li style="counter-increment: ref;">

@@ -167,7 +167,7 @@ sections:
         </li>
 
         <li>
-         <strong>Guanjie Lyu</strong>, Mohamed Belalia<sup>*</sup>, Lahcen Douge. (2026+).
+         Mohamed Belalia<sup>*</sup>, Lahcen Douge, <strong>Guanjie Lyu</strong>. (2026+).
          <a target="_blank" style="text-decoration: underline;">	Nonparametric estimation of Expected Shortfall under weak dependence</a>.
         </li>
 

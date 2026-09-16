@@ -178,13 +178,6 @@ sections:
            Tweedie-based nonparametric estimation for semicontinuous mixed densities</a>.
         </li>
 
-        <li>
-        <strong>Guanjie Lyu</strong><sup>*</sup>, Cindy Feng. (2026+). 
-        <a target="_blank" style="text-decoration: underline;">
-          Smoothing parameter selection for the Sz&aacute;sz-Mirakyan distribution estimator</a>.
-        <a href="https://github.com/GuanjieLyu/Bandwidth-selectors-for-Szasz-distribution-estimator" target="_blank" style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration:               none; font-size: 0.85em;">R Code</a>
-        </li>
-
         <!--
         <li>
         Hanen Daayeb, Wissem Jedidi, Salah Khardani, <strong>Guanjie Lyu</strong>, Fr&eacute;d&eacute;ric Ouimet<sup>*</sup>. (2026+).
@@ -200,6 +193,14 @@ sections:
         </li>
 
         <li>
+        <strong>Guanjie Lyu</strong><sup>*</sup>, Cindy Feng. (2026). 
+        <a target="_blank" style="text-decoration: underline;">
+          Smoothing parameter selection for the Sz&aacute;sz-Mirakyan distribution estimator</a>.
+        <span style="font-style: italic;">Annals of the Institute of Statistical Mathematics</span>. Accepted. 
+        <a href="https://github.com/GuanjieLyu/Bandwidth-selectors-for-Szasz-distribution-estimator" target="_blank" style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration:               none; font-size: 0.85em;">R Code</a>
+        </li>
+
+        <li>
         <strong>Guanjie Lyu</strong><sup>*</sup>, Fr&eacute;d&eacute;ric Ouimet, Cindy Feng. (2026).
         <a target="_blank" style="text-decoration: underline;">
            Asymptotic properties of multivariate Sz&aacute;sz-Mirakyan distribution
@@ -210,7 +211,6 @@ sections:
         <a href="https://github.com/FredericOuimetMcGill/MultivariateSzaszMirakyan" target="_blank" style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration: none; font-size:
          0.85em;">R Code</a>
         </li>
-
 
         <li>
         <strong>Guanjie Lyu</strong>, Mohamed Belalia<sup>*</sup>. (2024).

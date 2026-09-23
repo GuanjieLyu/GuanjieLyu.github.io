@@ -90,7 +90,7 @@ sections:
         <a target="_blank" style="text-decoration: underline;">
            Bernstein-smoothed estimation and bootstrap inference for the lower-tail Spearman's rho curve</a>.
         <span style="font-style: italic;">Journal of Statistical Computation and Simulation</span>. Accepted.
-        <a href="[https://www.tandfonline.com/doi/full/10.1080/10485252.2026.2736545](https://www.tandfonline.com/doi/full/10.1080/00949655.2026.2736798)" target="_blank" style="color: white; background-color: #555;                  padding: 1px 6px; border-radius: 3px; text-decoration: none; font-size:                           0.85em;">Paper</a>
+        <a href="https://www.tandfonline.com/doi/full/10.1080/00949655.2026.2736798" target="_blank" style="color: white; background-color: #555;                  padding: 1px 6px; border-radius: 3px; text-decoration:              none; font-size:                           0.85em;">Paper</a>
         </li>
 
         <li style="counter-increment: ref;">

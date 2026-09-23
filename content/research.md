@@ -96,7 +96,10 @@ sections:
         <strong>Guanjie Lyu</strong><sup>*</sup>, Mohamed Belalia. (2026).
         <a target="_blank" style="text-decoration: underline;">Testing independence using C-power functions</a>.
         <span style="font-style: italic;">Journal of Nonparametric Statistics</span>. Accepted.
+        <a href="https://www.tandfonline.com/doi/full/10.1080/10485252.2026.2736545" target="_blank" style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration: none; font-size:                           0.85em;">Paper</a>
         </li>
+
+
 
         <li>
         <strong>Guanjie Lyu</strong>, Cindy Feng<sup>*</sup>，Lihui Liu. (2026).

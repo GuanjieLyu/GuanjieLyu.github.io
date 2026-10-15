@@ -43,6 +43,11 @@ sections:
 
         <ol class="pub-list">
 
+        <li>
+         <strong>Guanjie Lyu</strong><sup>*</sup>. (2026+).
+        <a target="_blank" style="text-decoration: underline;">	Minimum-information bivariate extreme-value copulas with prescribed Kendall's tau
+         and upper tail dependence</a>.
+        </li>
 
         <li>
          Cindy Feng<sup>*</sup>, <strong>Guanjie Lyu</strong>. (2026+).

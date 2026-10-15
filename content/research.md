@@ -45,6 +45,12 @@ sections:
 
         <li>
          <strong>Guanjie Lyu</strong><sup>*</sup>. (2026+).
+        <a target="_blank" style="text-decoration: underline;">	Quantile--expectile calibration curves for distributional shape:
+           estimation, inference, and symmetry testing</a>.
+        </li>
+
+        <li>
+         <strong>Guanjie Lyu</strong><sup>*</sup>. (2026+).
         <a target="_blank" style="text-decoration: underline;">	Minimum-information bivariate extreme-value copulas with prescribed Kendall's tau
          and upper tail dependence</a>.
         </li>

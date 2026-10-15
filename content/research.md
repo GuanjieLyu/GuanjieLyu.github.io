@@ -44,6 +44,12 @@ sections:
         <ol class="pub-list">
 
         <li>
+        <strong>Guanjie Lyu</strong>, Mohamed Belalia, Abdulkadir Hussein<sup>*</sup>. (2026+).
+        <a target="_blank" style="text-decoration: underline;">Copula-based bivariate additive quantile regression with enriched asymmetric
+          Laplace margins</a>.
+        </li>
+
+        <li>
          <strong>Guanjie Lyu</strong><sup>*</sup>. (2026+).
         <a target="_blank" style="text-decoration: underline;">	Quantile--expectile calibration curves for distributional shape:
            estimation, inference, and symmetry testing</a>.

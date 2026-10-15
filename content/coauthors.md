@@ -54,6 +54,7 @@ sections:
         <g class="ca-g" data-loc="buffalo" data-lat="42.89" data-lon="-78.88" tabindex="0" role="button" aria-label="Buffalo, USA"><circle class="ca-ring" r="27"/><circle class="ca-pin" r="15"><title>Buffalo, USA</title></circle></g>
         <g class="ca-g" data-loc="newhaven" data-lat="41.31" data-lon="-72.93" tabindex="0" role="button" aria-label="New Haven, USA"><circle class="ca-ring" r="27"/><circle class="ca-pin" r="15"><title>New Haven, USA</title></circle></g>
         <g class="ca-g" data-loc="hiroshima" data-lat="34.40" data-lon="132.71" tabindex="0" role="button" aria-label="Hiroshima, Japan"><circle class="ca-ring" r="27"/><circle class="ca-pin" r="15"><title>Hiroshima, Japan</title></circle></g>
+        <g class="ca-g" data-loc="cambridge" data-lat="42.37" data-lon="-71.11" tabindex="0" role="button" aria-label="Cambridge, USA"><circle class="ca-ring" r="27"/><circle class="ca-pin" r="15"><title>Cambridge, USA</title></circle></g>
         </svg>
         <div class="ca-bar"><span class="ca-status" id="ca-status" aria-live="polite"></span><button class="ca-reset" id="ca-reset" type="button">Show all</button></div>
         <ul class="ca-grid">
@@ -68,11 +69,12 @@ sections:
         <li class="ca-item" data-loc="halifax"><span class="ca-name">Cindy Feng</span><span class="ca-aff">Dalhousie University</span></li>
         <li class="ca-item" data-loc="halifax" data-check="1"><span class="ca-name">Amy Grant</span><span class="ca-aff">Dalhousie University</span></li>
         <li class="ca-item" data-loc="halifax" data-check="1"><span class="ca-name">Fahima Hassan</span><span class="ca-aff">Dalhousie University</span></li>
-        <li class="ca-item" data-loc="buffalo"><span class="ca-name">Xinwei Huang</span><span class="ca-aff">University at Buffalo</span></li>
+        <li class="ca-item" data-loc="cambridge"><span class="ca-name">Xin-Wei Huang</span><span class="ca-aff">Takeda</span></li>
         <li class="ca-item" data-loc="windsor"><span class="ca-name">Abdulkadir Hussein</span><span class="ca-aff">University of Windsor</span></li>
         <li class="ca-item" data-loc="tunis"><span class="ca-name">Salah Khardani</span><span class="ca-aff">Universit&eacute; de Tunis El Manar</span></li>
         <li class="ca-item" data-loc="newhaven"><span class="ca-name">Shuyi Liang</span><span class="ca-aff">Yale University</span></li>
         <li class="ca-item" data-loc="halifax" data-check="1"><span class="ca-name">Lihui Liu</span><span class="ca-aff">Dalhousie University</span></li>
+        <li class="ca-item" data-loc="buffalo"><span class="ca-name">Chang-Xing Ma</span><span class="ca-aff">University at Buffalo</span></li>
         <li class="ca-item" data-loc="halifax" data-check="1"><span class="ca-name">Kathryn McIsaac</span><span class="ca-aff">Dalhousie University</span></li>
         <li class="ca-item" data-loc="uqtr"><span class="ca-name">Mhamed Mesfioui</span><span class="ca-aff">Universit&eacute; du Qu&eacute;bec &agrave; Trois-Rivi&egrave;res</span></li>
         <li class="ca-item" data-loc="uqtr"><span class="ca-name">Fr&eacute;d&eacute;ric Ouimet</span><span class="ca-aff">Universit&eacute; du Qu&eacute;bec &agrave; Trois-Rivi&egrave;res</span></li>

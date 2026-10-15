@@ -51,7 +51,7 @@ sections:
 
         <li>
          <strong>Guanjie Lyu</strong><sup>*</sup>. (2026+).
-        <a target="_blank" style="text-decoration: underline;">	Quantile--expectile calibration curves for distributional shape:
+        <a target="_blank" style="text-decoration: underline;">	Quantile&ndash;expectile calibration curves for distributional shape:
            estimation, inference, and symmetry testing</a>.
         </li>
 

@@ -217,7 +217,9 @@ sections:
         <strong>Guanjie Lyu</strong><sup>*</sup>, Cindy Feng. (2026). 
         <a target="_blank" style="text-decoration: underline;">
           Smoothing parameter selection for the Sz&aacute;sz-Mirakyan distribution estimator</a>.
-        <span style="font-style: italic;">Annals of the Institute of Statistical Mathematics</span>. Accepted. 
+        <span style="font-style: italic;">Annals of the Institute of Statistical Mathematics</span>. Accepted.
+        <a href="https://link.springer.com/article/10.1007/s10463-026-01005-7?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20261030&utm_content=10.1007/s10463-026-01005-7#article-info" target="_blank"
+         style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration: none; font-size: 0.85em;">Paper</a>
         <a href="https://github.com/GuanjieLyu/Bandwidth-selectors-for-Szasz-distribution-estimator" target="_blank" style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration:               none; font-size: 0.85em;">R Code</a>
         </li>
 

@@ -97,9 +97,9 @@ sections:
         </li>
 
         <li style="counter-increment: ref;">
-        <strong>Guanjie Lyu</strong>, Mohamed Belalia<sup>*</sup>. (2026+).
+        <strong>Guanjie Lyu</strong>, Mohamed Belalia<sup>*</sup>. (2026).
         <a target="_blank" style="text-decoration: underline;">Testing equality between the dependence structures of two samples using Bernstein polynomials</a>.
-        <span style="font-style: italic;">arXiv:2303.02510</span>.
+        <span style="font-style: italic;">Statistical Papers</span>. Accepted.
         </li>
 
         <li>

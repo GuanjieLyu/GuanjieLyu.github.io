@@ -106,14 +106,14 @@ sections:
         <strong>Guanjie Lyu</strong>, Fr&eacute;d&eacute;ric Ouimet<sup>*</sup>, Selim Orhun Susam. (2026).
         <a target="_blank" style="text-decoration: underline;">
            Bernstein-smoothed estimation and bootstrap inference for the lower-tail Spearman's rho curve</a>.
-        <span style="font-style: italic;">Journal of Statistical Computation and Simulation</span>. Accepted.
+        <span style="font-style: italic;">Journal of Statistical Computation and Simulation</span>. In Press.
         <a href="https://www.tandfonline.com/doi/full/10.1080/00949655.2026.2736798" target="_blank" style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration: none; font-size:                           0.85em;">Paper</a>
         </li>
 
         <li style="counter-increment: ref;">
         <strong>Guanjie Lyu</strong><sup>*</sup>, Mohamed Belalia. (2026).
         <a target="_blank" style="text-decoration: underline;">Testing independence using C-power functions</a>.
-        <span style="font-style: italic;">Journal of Nonparametric Statistics</span>. Accepted.
+        <span style="font-style: italic;">Journal of Nonparametric Statistics</span>. In Press.
         <a href="https://www.tandfonline.com/doi/full/10.1080/10485252.2026.2736545" target="_blank" style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration: none; font-size:                           0.85em;">Paper</a>
         </li>
 
@@ -122,14 +122,14 @@ sections:
         <li>
         <strong>Guanjie Lyu</strong>, Cindy Feng<sup>*</sup>，Lihui Liu. (2026).
         <a target="_blank" style="text-decoration: underline;">Copula-based joint modeling of emergency department visits with time-varying dependence</a>.
-        <span style="font-style: italic;">Canadian Journal of Statistics</span>. Accepted. 
+        <span style="font-style: italic;">Canadian Journal of Statistics</span>. In Press. 
         <a href="https://onlinelibrary.wiley.com/doi/10.1002/cjs.70059" target="_blank" style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration: none; font-size:                           0.85em;">Paper</a>
         </li>
     
         <li>
         <strong>Guanjie Lyu</strong>, Cindy Feng<sup>*</sup>. (2026).
         <a target="_blank" style="text-decoration: underline;">Joint Copula‑Based Beta Regression with Covariate‑Dependent Dispersion for Malaria Indicators</a>.
-        <span style="font-style: italic;">Canadian Journal of Statistics</span>. Accepted.
+        <span style="font-style: italic;">Canadian Journal of Statistics</span>. In Press.
         <a href="https://github.com/GuanjieLyu/LF_Copula-joint-model-with-Beta-margins" target="_blank" style="color: white; background-color: #555; padding: 1px 6px; border-radius: 3px; text-decoration: none; font-size:
          0.85em;">R Code</a>
         </li>

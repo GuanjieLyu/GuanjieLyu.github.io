@@ -31,6 +31,8 @@ profiles:
     label: ORCID
   - icon: brands/google-scholar
     url: https://scholar.google.com/citations?user=Pn-F8hgAAAAJ&hl=en
+  - icon: brands/researchgate
+    url: https://www.researchgate.net/profile/Guanjie-Lyu
   - icon: brands/github
     url: https://github.com/GuanjieLyu
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`

@@ -31,7 +31,7 @@ profiles:
     label: ORCID
   - icon: brands/google-scholar
     url: https://scholar.google.com/citations?user=Pn-F8hgAAAAJ&hl=en
-  - icon: brands/researchgate
+  - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Guanjie-Lyu
   - icon: brands/github
     url: https://github.com/GuanjieLyu
